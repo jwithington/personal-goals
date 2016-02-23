@@ -1,7 +1,11 @@
 Personal Goals
 ==============
 
-Personal goals made open source. Transparency, accountability, and versioning! Learn more about it where it began, [here](https://github.com/una/personal-goals), [here](http://una.im/personal-goals-guide#💁), and [here](https://www.youtube.com/watch?v=xQEU0ZsvXYI).
+Personal goals made open source. Transparency, accountability, and versioning!
+
+✨Please✨ submit a pull request if you see any bugs in my thinking / want to recommend something.
+
+Learn more about it where it began, [here](https://github.com/una/personal-goals), [here](http://una.im/personal-goals-guide#💁), and [here](https://www.youtube.com/watch?v=xQEU0ZsvXYI).
 
 # Theme for 2016: Just Decide
 
