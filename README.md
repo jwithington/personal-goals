@@ -1,7 +1,7 @@
 Personal Goals
 ==============
 
-Personal goals made open source. Transparency, accountability, and versioning! Learn more about it where it began, [here](https://github.com/una/personal-goals).
+Personal goals made open source. Transparency, accountability, and versioning! Learn more about it where it began, [here](https://github.com/una/personal-goals), [here](http://una.im/personal-goals-guide#💁), and [here](https://www.youtube.com/watch?v=xQEU0ZsvXYI).
 
 # Theme for 2016: Just Decide
 
@@ -22,10 +22,10 @@ Personal goals made open source. Transparency, accountability, and versioning! L
 - [ ] Call Mary Jo
 - [ ] Set up a Drupal Dev Environment
 - [ ] Apply for jobs
-- [ ] Apply for CollegeNET  
+- [X] Apply for CollegeNET  
 - [ ] Improve my Portfolio site
 - [ ] Use New Template for site
-- [ ] Set up Github Goals
+- [X] Set up Github Goals
 - [ ] Take Tot to the Park
 - [ ] Take Tot to the Park again
 - [ ] Watch next ST:TNG episode
