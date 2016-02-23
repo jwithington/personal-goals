@@ -9,3 +9,4 @@ Things I want to work on.
 - [ ] App for Erin's Observations
 - [ ] App for Erin scheduling
 - [ ] New JN website
+- [ ] Reading App for hack.guides()
