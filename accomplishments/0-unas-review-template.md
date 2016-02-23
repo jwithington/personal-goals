@@ -13,5 +13,6 @@
 ## Things I'll do Next Week:
 
 - [ ] Call Mom
+- [ ] Call Mary Jo
 
 ### Week in Review
