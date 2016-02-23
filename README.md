@@ -51,3 +51,7 @@ Personal goals made open source. Transparency, accountability, and versioning! L
 - [Apps & Other Projects](ideas-and-misc/project-ideas.md)
 - [Blog Post Ideas](ideas-and-misc/blog-ideas.md)
 - [Resources](/resources)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jwithington/personal-goals/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
