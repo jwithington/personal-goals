@@ -1,5 +1,7 @@
 # Goal: 52 movies this year (shooting for weekly)
 
+📽 Please send your recommendations and I'll add them! 🎬
+
 ### Oldish Stuff I've never seen
 - Bill and teds
 - Goodfellas
