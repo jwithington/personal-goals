@@ -27,6 +27,7 @@ Personal goals made open source. Transparency, accountability, and versioning! L
 - [ ] Use New Template for site
 - [X] Set up Github Goals
 - [ ] Take Tot to the Park
+- [X] Set up personal-goals in terminal
 - [ ] Take Tot to the Park again
 - [ ] Watch next ST:TNG episode
 - [ ] Watch Bowie movie
@@ -54,4 +55,3 @@ Personal goals made open source. Transparency, accountability, and versioning! L
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jwithington/personal-goals/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
