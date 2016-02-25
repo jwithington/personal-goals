@@ -24,7 +24,7 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 
 - [ ] Call Mom
 - [ ] Call Mary Jo
-- [ ] Set up a Drupal Dev Environment
+- [X] Set up a Drupal Dev Environment
 - [ ] Apply for jobs
 - [X] Apply for CollegeNET  
 - [ ] Improve my Portfolio site
@@ -36,13 +36,13 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 - [ ] Watch next ST:TNG episode
 - [ ] Watch Bowie movie
 - [ ] Watch movie with Erin
-- [ ] Make Some Soup
+- [X] Make Some Soup
 - [ ] Finish React Course
 - [ ] Homework for Mongo
 - [ ] Skillcrush Lessons
 - [ ] Drupal Theming learning
-- [ ] Brewpal Meetup
-- [ ] JS Meetup
+- [X] Brewpal Meetup
+- [X] JS Meetup
 - [ ] Attend/watch some hack.summit() stuff
 
 ### Things I'll Do in the Future:

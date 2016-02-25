@@ -7,14 +7,14 @@ Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited af
 - [ ] Heart (Eastside)
 - [ ] Heart (Westside)
 - [ ] Heart (Roastery)
-- [ ] Stumptown (Downtown)
+- [X] Stumptown (Downtown) :star: (though internet = :poop:) 
 - [ ] Stumptown (Division)
 - [ ] Stumptown (Ace)
 - [ ] Stumptown (Cupping Room)
 - [ ] That Beaverton one I can't remember
 - [ ] The place that replaced Funky Door
 - [ ] Ristretto (Couch)
-- [ ] Ristretto (NoPo)
+- [X] Ristretto (NoPo) :star:
 - [ ] Red E
 - [ ] Extracto 1
 - [ ] Extracto 2
@@ -23,7 +23,7 @@ Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited af
 - [ ] Common Grounds
 - [ ] Fresh Pot (Downtown)
 - [ ] Fresh Pot (Powells)
-- [ ] Fresh Pot (Mississippi)
+- [X] Fresh Pot (Mississippi) :star:
 - [ ] Triumph
 - [ ] Good Coffee (Salmon)
 - [ ] Good Coffee (Division)
@@ -32,3 +32,5 @@ Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited af
 - [ ] That 24 hour place we saw
 - [ ] That place that replaced the coffee lodge
 - [ ] That nice one on Division with the snooty name
+
+
