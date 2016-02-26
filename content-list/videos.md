@@ -1,4 +1,6 @@
-## Other Videos to watch
+## Videos to watch
+- [ ] React.js [Conf keynote](https://www.youtube.com/watch?v=MGuKhcnrqGA&list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY&index=1)
+- [ ] Perhaps some other stuff from [React.js conf](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY#reactjsconf2016)
 
 ### XOXO Stuff
 

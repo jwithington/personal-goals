@@ -32,5 +32,6 @@ Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited af
 - [ ] That 24 hour place we saw
 - [ ] That place that replaced the coffee lodge
 - [ ] That nice one on Division with the snooty name
-
+- [ ] Seven Virtues Glisan
+- [X] Seven Virtues Zipper :cherry_blossom:
 
