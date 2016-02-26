@@ -13,3 +13,7 @@ Dan tells me that, hey, he can help if needed.
 022416
 ---
 Drinking a beer outside Killer Burger, surrounded by folks I'm getting to know.
+
+022516
+---
+I made Tot a website and then figured out how to make a fun effect work. Like a developer or something! 
