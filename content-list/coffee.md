@@ -4,7 +4,7 @@ Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited af
 
 - [x] See See Coffee :star:
 - [ ] either/or
-- [ ] Heart (Eastside)
+- [X] Heart (Eastside) :heart:
 - [ ] Heart (Westside)
 - [ ] Heart (Roastery)
 - [X] Stumptown (Downtown) :star: (though internet = :poop:) 
@@ -34,4 +34,4 @@ Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited af
 - [ ] That nice one on Division with the snooty name
 - [ ] Seven Virtues Glisan
 - [X] Seven Virtues Zipper :cherry_blossom:
-
+- [ ] Half Pint
