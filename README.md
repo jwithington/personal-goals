@@ -32,6 +32,7 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 - [ ] Catch up Skillcrush Lessons
 - [ ] Finish MongoDB course
 - [ ] Way way way clean up the side room
+- [ ] Edit some things / write some things for open source stuff
 - [ ] Finish React course
 - [ ] More Drupal Theming work
 - [ ] Attend Wayfinding Academy meeting
