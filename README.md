@@ -24,26 +24,30 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 
 - [ ] Call Mom
 - [ ] Call Mary Jo
-- [X] Set up a Drupal Dev Environment
-- [ ] Apply for jobs
-- [X] Apply for CollegeNET  
-- [ ] Improve my Portfolio site
-- [ ] Use New Template for site
-- [X] Set up Github Goals
-- [ ] Take Tot to the Park
-- [X] Set up personal-goals in terminal
-- [ ] Take Tot to the Park again
-- [ ] Watch next ST:TNG episode
-- [ ] Watch Bowie movie
-- [ ] Watch movie with Erin
-- [X] Make Some Soup
-- [ ] Finish React Course
-- [ ] Homework for Mongo
-- [ ] Skillcrush Lessons
-- [ ] Drupal Theming learning
-- [X] Brewpal Meetup
-- [X] JS Meetup
-- [ ] Attend/watch some hack.summit() stuff
+- [ ] Set up a date / movie night with Erin
+- [ ] Schedule some of my tasks
+- [ ] Find and apply for 5 jobs
+- [ ] Decide about Hack University
+- [ ] Catch up Skillcrush Lessons
+- [ ] Finish MongoDB course
+- [ ] Way way way clean up the side room
+- [ ] Finish React course
+- [ ] More Drupal Theming work
+- [ ] Wayfinding Academy meeting
+- [ ] Take Tot to the Park / on a long walk
+- [ ] Take Tot to the Park / on a long walk (again)
+- [ ] Make a good mockup for my site
+- [ ] Watch a video on my list
+- [ ] Watch another video on my list
+- [ ] Go see 12 monkeys :monkey:
+- [ ] Watch another movie
+- [ ] Write a blog post
+- [ ] Consider separating out Hard Like Algebra and jimwithington.com as far as blog posting
+- [ ] Tally up where i am for 52 movies this year
+- [ ] Watch ST:TNG
+- [ ] Watch another ST:TNG
+- [ ] Add some new feature to Tot site (carousel? auto-post? mask that says Tot over the photo?)
+- [ ] Do something interim style with jimwithington.com
 
 ### Things I'll Do in the Future:
 - [ ] Find financial advisor
