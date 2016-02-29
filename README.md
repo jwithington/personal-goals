@@ -24,6 +24,8 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 
 - [ ] Call Mom
 - [ ] Call Mary Jo
+- [ ] Go to bed at at 11pm or earlier three times
+- [ ] Meditate 3 times
 - [ ] Watch the Oscars, Chill Sunday style
 - [ ] Set up a date / movie night with Erin
 - [ ] Schedule some of my tasks
