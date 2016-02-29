@@ -16,9 +16,9 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 4. Improve Health
 5. Spend More Time With Family
 
-# February 22, 2016
+# February 28, 2016
 
-### This Week's Focus: Getting On Track With Projects, Courses, and Goals
+### Apply for Jobs, Learn Stuff Strategically, Family Time
 
 ## Things I'll do This Week:
 
@@ -33,7 +33,7 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 - [ ] Way way way clean up the side room
 - [ ] Finish React course
 - [ ] More Drupal Theming work
-- [ ] Wayfinding Academy meeting
+- [ ] Attend Wayfinding Academy meeting
 - [ ] Take Tot to the Park / on a long walk
 - [ ] Take Tot to the Park / on a long walk (again)
 - [ ] Make a good mockup for my site
