@@ -24,6 +24,7 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 
 - [ ] Call Mom
 - [ ] Call Mary Jo
+- [ ] Watch the Oscars, Chill Sunday style
 - [ ] Set up a date / movie night with Erin
 - [ ] Schedule some of my tasks
 - [ ] Find and apply for 5 jobs
