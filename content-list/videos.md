@@ -6,9 +6,11 @@
 ### XOXO Stuff
 
 ### hack.summit()
-- [ ] DHH
-- [ ] Bonnie
- 
+- [ ] [DHH](https://www.youtube.com/watch?v=99LBwJnFDE8)
+- [ ] [Bonnie Eisenman](https://www.youtube.com/watch?v=jk0RnCTr6nY)
+
 ### Also
 - [X] [Una's Talk about Open Source Goals](https://www.youtube.com/watch?v=xQEU0ZsvXYI)
-- [ ] [Alex Sexton: Getting Involved in Open Source - Beyond Conf 2015](https://www.youtube.com/watch?v=dXXOs0toPyg)
+- [X] [Alex Sexton: Getting Involved in Open Source - Beyond Conf 2015](https://www.youtube.com/watch?v=dXXOs0toPyg)
+- [ ] [Linda Liukas: Six Impossible Things Before Breakfast - Beyond Conf 2015](https://www.youtube.com/watch?v=i-MngtDiqrE)
+- [ ] [Andy Appleton: Done is Better Than Perfect - Beyond Conf 2015](https://youtu.be/fELVZkzXRw8)
