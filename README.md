@@ -30,6 +30,7 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 - [ ] Set up a date / movie night with Erin
 - [ ] Schedule some of my tasks
 - [ ] Find and apply for 5 jobs
+- [ ] Complete Hello Tech thing
 - [ ] Decide about Hack University
 - [ ] Catch up Skillcrush Lessons
 - [ ] Finish MongoDB course
