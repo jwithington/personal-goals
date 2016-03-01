@@ -1,13 +1,13 @@
 # A Checklist of Portland Coffee Shops.
 
-Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited after February 22, 2016. (:star: == outstanding)
+Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited after February 22, 2016. (:star: == exceptional)
 
 - [x] See See Coffee :star:
 - [ ] either/or
 - [X] Heart (Eastside) :heart:
 - [ ] Heart (Westside)
 - [ ] Heart (Roastery)
-- [X] Stumptown (Downtown) :star: (though internet = :poop:) 
+- [X] Stumptown (Downtown) :star: (though internet = :poop:)
 - [ ] Stumptown (Division)
 - [ ] Stumptown (Ace)
 - [ ] Stumptown (Cupping Room)
@@ -23,7 +23,7 @@ Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited af
 - [ ] Common Grounds
 - [ ] Fresh Pot (Downtown)
 - [ ] Fresh Pot (Powells)
-- [X] Fresh Pot (Mississippi) :star:
+- [X] Fresh Pot (Mississippi)
 - [ ] Triumph
 - [ ] Good Coffee (Salmon)
 - [ ] Good Coffee (Division)
@@ -35,3 +35,5 @@ Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited af
 - [ ] Seven Virtues Glisan
 - [X] Seven Virtues Zipper :cherry_blossom:
 - [ ] Half Pint
+- [X] Floyd's Morrison
+- [ ] Floyd's Downtown
