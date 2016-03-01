@@ -30,6 +30,11 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 - [ ] Set up a date / movie night with Erin
 - [ ] Schedule some of my tasks
 - [ ] Find and apply for 5 jobs
+  - [X] 1
+  - [ ] 2
+  - [ ] 3
+  - [ ] 4
+  - [ ] 5
 - [ ] Complete Hello Tech thing
 - [ ] Decide about Hack University
 - [ ] Catch up Skillcrush Lessons
@@ -39,10 +44,10 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 - [ ] Finish React course
 - [ ] More Drupal Theming work
 - [ ] Attend Wayfinding Academy meeting
-- [ ] Take Tot to the Park / on a long walk
+- [X] Take Tot to the Park / on a long walk
 - [ ] Take Tot to the Park / on a long walk (again)
 - [ ] Make a good mockup for my site
-- [ ] Watch a video on my list
+- [X] Watch a video on my list
 - [ ] Watch another video on my list
 - [ ] Go see 12 monkeys :monkey:
 - [ ] Watch another movie
