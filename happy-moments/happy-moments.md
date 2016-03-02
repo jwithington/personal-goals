@@ -32,4 +32,9 @@ Family couch time.
 
 022916
 ---
-Walking and realizing that I was in the flow of things, learning and understanding and discovering. 
+Walking and realizing that I was in the flow of things, learning and understanding and discovering.
+
+030116
+---
+In the XOXO slack when I heard "my boss likes smart entry level people. Ping me tomorrow."
+ 
