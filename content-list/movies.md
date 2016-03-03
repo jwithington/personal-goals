@@ -38,6 +38,7 @@
 - Tangerine
 - Carol
 - Clouds of Sils Maria
+- Hail Caesar!
 
 ###Artsy Fartsy
 - Solaris (the old one)
