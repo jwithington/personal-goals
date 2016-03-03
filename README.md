@@ -26,7 +26,7 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 - [ ] Call Mary Jo
 - [ ] Go to bed at at 11pm or earlier three times
     - [X] 1 (Monday)
-    - [ ] 2
+    - [X] 2 (Tuesday-sure didn't fall asleep tho!)
     - [ ] 3
 - [ ] Meditate 3 times
 - [X] Watch the Oscars, Chill Sunday style
@@ -39,20 +39,20 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
   - [ ] 4
   - [ ] 5
 - [ ] Complete Hello Tech thing
-- [ ] Decide about Hack University
+- [X] Decide about Hack University
 - [ ] Catch up Skillcrush Lessons
 - [ ] Finish MongoDB course
 - [ ] Way way way clean up the side room
 - [ ] Edit some things / write some things for open source stuff
 - [ ] Finish React course
 - [ ] More Drupal Theming work
-- [ ] Attend Wayfinding Academy meeting
+- [X] Attend Wayfinding Academy meeting
 - [X] Take Tot to the Park / on a long walk
 - [ ] Take Tot to the Park / on a long walk (again)
 - [ ] Make a good mockup for my site
 - [X] Watch a video on my list
 - [ ] Watch another video on my list
-- [ ] Go see 12 monkeys :monkey:
+- [ ] Go see 12 monkeys 🐒
 - [ ] Watch another movie
 - [ ] Write a blog post
 - [ ] Consider separating out Hard Like Algebra and jimwithington.com as far as blog posting

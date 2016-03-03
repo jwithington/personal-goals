@@ -12,5 +12,5 @@
 ### Also
 - [X] [Una's Talk about Open Source Goals](https://www.youtube.com/watch?v=xQEU0ZsvXYI)
 - [X] [Alex Sexton: Getting Involved in Open Source - Beyond Conf 2015](https://www.youtube.com/watch?v=dXXOs0toPyg)
-- [ ] [Linda Liukas: Six Impossible Things Before Breakfast - Beyond Conf 2015](https://www.youtube.com/watch?v=i-MngtDiqrE)
+- [X] [Linda Liukas: Six Impossible Things Before Breakfast - Beyond Conf 2015](https://www.youtube.com/watch?v=i-MngtDiqrE)
 - [ ] [Andy Appleton: Done is Better Than Perfect - Beyond Conf 2015](https://youtu.be/fELVZkzXRw8)
