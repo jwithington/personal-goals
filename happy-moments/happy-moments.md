@@ -37,4 +37,11 @@ Walking and realizing that I was in the flow of things, learning and understandi
 030116
 ---
 In the XOXO slack when I heard "my boss likes smart entry level people. Ping me tomorrow."
- 
+
+030216
+---
+Not a moment; instead, the feeling when Chris was telling me that I have a good set of skills and just need to find the right match. 
+
+030316
+---
+Watching Dope with Erin after a run with Tot. 

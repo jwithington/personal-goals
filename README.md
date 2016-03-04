@@ -29,8 +29,9 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
     - [X] 2 (Tuesday-sure didn't fall asleep tho!)
     - [ ] 3
 - [ ] Meditate 3 times
+    - [X] 1 (Wednesday, with Erin)
 - [X] Watch the Oscars, Chill Sunday style
-- [ ] Set up a date / movie night with Erin
+- [X] Set up a date / movie night with Erin
 - [ ] Schedule some of my tasks
 - [ ] Find and apply for 5 jobs
   - [X] 1
@@ -48,12 +49,12 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 - [ ] More Drupal Theming work
 - [X] Attend Wayfinding Academy meeting
 - [X] Take Tot to the Park / on a long walk
-- [ ] Take Tot to the Park / on a long walk (again)
+- [X] Take Tot to the Park / on a long walk (again)
 - [ ] Make a good mockup for my site
 - [X] Watch a video on my list
-- [ ] Watch another video on my list
+- [X] Watch another video on my list
 - [ ] Go see 12 monkeys 🐒
-- [ ] Watch another movie
+- [X] Watch another movie
 - [ ] Write a blog post
 - [ ] Consider separating out Hard Like Algebra and jimwithington.com as far as blog posting
 - [ ] Tally up where i am for 52 movies this year
