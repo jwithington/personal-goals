@@ -41,7 +41,7 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
   - [ ] 5
 - [ ] Complete Hello Tech thing
 - [X] Decide about Hack University
-- [ ] Catch up Skillcrush Lessons
+- [X] Catch up Skillcrush Lessons
 - [ ] Finish MongoDB course
 - [ ] Way way way clean up the side room
 - [ ] Edit some things / write some things for open source stuff
@@ -57,7 +57,7 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 - [X] Watch another movie
 - [ ] Write a blog post
 - [ ] Consider separating out Hard Like Algebra and jimwithington.com as far as blog posting
-- [ ] Tally up where i am for 52 movies this year
+- [ ] Tally up where I am for 52 movies this year
 - [ ] Watch ST:TNG
 - [ ] Watch another ST:TNG
 - [ ] Add some new feature to Tot site (carousel? auto-post? mask that says Tot over the photo?)

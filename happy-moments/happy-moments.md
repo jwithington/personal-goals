@@ -28,7 +28,7 @@ Laughing and walking with Erin, Ryan, and Jessica.
 
 022816
 ---
-Family couch time. 
+Family couch time.
 
 022916
 ---
@@ -40,8 +40,12 @@ In the XOXO slack when I heard "my boss likes smart entry level people. Ping me 
 
 030216
 ---
-Not a moment; instead, the feeling when Chris was telling me that I have a good set of skills and just need to find the right match. 
+Not a moment; instead, the feeling when Chris was telling me that I have a good set of skills and just need to find the right match.
 
 030316
 ---
-Watching Dope with Erin after a run with Tot. 
+Watching Dope with Erin after a run with Tot.
+
+030416
+---
+In the flow, working in Photoshop, demystifying something I'd been mystified by for a very long time.
