@@ -50,3 +50,5 @@
 - Hateful Eight
 - Straight Outta Compton
 - Blade Runner :star:
+- Hail, Caesar! 
+- Dope
