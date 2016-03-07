@@ -69,6 +69,8 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 - [ ] Start running again
 - [ ] Find a gym
 - [ ] Set up allergy shots
+- [ ] Edit some things / write some things for open source stuff
+- [ ] Finish React course
 
 ### Backlog: Side Projects & Other Ideas
 - [Apps & Other Projects](ideas-and-misc/project-ideas.md)

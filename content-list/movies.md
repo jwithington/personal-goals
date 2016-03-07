@@ -1,4 +1,4 @@
-# Goal: 52 movies this year (shooting for weekly)
+# Goal: 52 movies this year (shooting for weekly, now at 7/52)
 
 📽 Please send your recommendations and I'll add them! 🎬
 
@@ -33,6 +33,7 @@
 - [MC5 Doc](http://www.victimoftime.com/articles/video-feed-mc5-true-testimonial-2002-documentary/) (Tim)
 - 7UP (Erin)
 - Grey gardens (Erin)
+- American Psycho (Chris)
 
 ### Stuff I heard about that's sorta new and sounds good
 - Tangerine
@@ -50,5 +51,5 @@
 - Hateful Eight
 - Straight Outta Compton
 - Blade Runner :star:
-- Hail, Caesar! 
+- Hail, Caesar!
 - Dope
