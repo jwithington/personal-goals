@@ -6,5 +6,6 @@
 - [ ] Start Cooking at 4:30
 
 Bonus:
+
 - [ ] Set up times with Bjarke
 - [ ] Work on Wayfinding site
