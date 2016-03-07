@@ -9,3 +9,4 @@ Bonus:
 
 - [ ] Set up times with Bjarke
 - [ ] Work on Wayfinding site
+- [ ] Kaiser Appointments
