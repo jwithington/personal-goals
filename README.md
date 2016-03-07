@@ -38,16 +38,22 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 - [ ] Add movie recs to list
 - [ ] Find out how long I have unemployment
 - [ ] Ask for help
+
 ***
+
 - [ ] Use 3 things method for daily work
 - [ ] Re-examine Chris's original email; what still needs doing?
+
 ***
+
 - [ ] Apply to digital agencies folks mentioned in chat
 - [ ] Followup with recruiters on appropriate days
 - [ ] Finish HelloTech
 - [ ] Check Portland reddit for jobs (and apply for some)(this fits in "ask for help", possibly)
 - [X] Email CN again
+
 ***
+
 - [ ] Finish MongoDB (due Tuesday)
 - [ ] Schedule coworking time with Bjarke
 - [ ] Get Nav Bar and Scroll working for site
@@ -56,7 +62,9 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 - [ ] Work ahead in Skillcrush
 - [ ] Write one post for FCC wiki
 - [ ] Daily: Do a few things on FCC
+
 ***
+
 - [ ] Watch another ST:TNG
 - [ ] Watch a movie
 
