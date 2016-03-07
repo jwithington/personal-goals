@@ -49,3 +49,14 @@ Watching Dope with Erin after a run with Tot.
 030416
 ---
 In the flow, working in Photoshop, demystifying something I'd been mystified by for a very long time.
+
+030516
+---
+Out with friends for Emily's birthday, laughing, bonding.
+
+030616
+---
+Sitting at the park, Erin standing, Tot rushing over with her ball.
+
+030716
+---
