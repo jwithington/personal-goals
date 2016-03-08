@@ -7,7 +7,7 @@
 Bonus:
 - [ ] Cleanup entryway
 - [ ] Start Taxes
-- [ ] Complete as many Skillcrush lessons as possible
+- [X] Complete as many Skillcrush lessons as possible
 - [ ] Buy flowers
 - [ ] Plan for Saturday
 
