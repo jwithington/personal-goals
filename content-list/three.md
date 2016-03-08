@@ -1,3 +1,13 @@
+030816
+---
+- [ ] Work on site with Bjarke and clarify roles
+- [ ] Complete Treehouse CSS Basics and HTML forms
+- [ ] Overhaul kitchen and put laundry away
+
+Bonus:
+- [ ] Cleanup entryway
+- [ ] Start Taxes
+
 030716
 ---
 
