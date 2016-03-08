@@ -38,6 +38,8 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 - [ ] Add movie recs to list
 - [ ] Find out how long I have unemployment
 - [ ] Ask for help
+- [ ] Kaiser Appointments
+- [ ] Haircut!
 
 ***
 
