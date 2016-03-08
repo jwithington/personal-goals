@@ -7,6 +7,7 @@
 Bonus:
 - [ ] Cleanup entryway
 - [ ] Start Taxes
+- [ ] Complete as many Skillcrush lessons as possible
 
 030716
 ---
