@@ -61,3 +61,7 @@ Sitting at the park, Erin standing, Tot rushing over with her ball.
 030716
 ---
 Biking away from the Outpost, sunny misty as heck rain, turn around to the rainbow!
+
+030816
+---
+Walking back from the wet downtown streets, happy about a cool Portland night walk, hopeful for the future. 

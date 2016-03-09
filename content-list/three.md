@@ -14,15 +14,16 @@ Bonus:
 
 030816
 ---
-- [ ] Work on site with Bjarke and clarify roles
-- [ ] Complete Treehouse CSS Basics and HTML forms
-- [ ] Overhaul kitchen and put laundry away
+- [X] Work on site with Bjarke and clarify roles
+- [X] ~~Complete~~ Work on Treehouse CSS Basics and HTML forms
+- [X] Overhaul kitchen and put laundry away
 
 Bonus:
-- [ ] Cleanup entryway
+
+- [X] Cleanup entryway
 - [ ] Start Taxes
 - [X] Complete as many Skillcrush lessons as possible
-- [ ] Buy flowers
+- [X] Buy flowers
 - [ ] Plan for Saturday
 
 030716
