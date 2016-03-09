@@ -3,6 +3,9 @@ Personal Goals
 
 Personal goals made open source. Transparency, accountability, and versioning!
 
+*Note: New [Three Things List here](https://github.com/jwithington/personal-goals/blob/master/content-list/three.md)*
+
+
 ✨Please✨ submit a pull request if you see any bugs in my thinking / want to recommend something.
 
 Learn more about it where it began, [here](https://github.com/una/personal-goals), [here](http://una.im/personal-goals-guide#💁), and [here](https://www.youtube.com/watch?v=xQEU0ZsvXYI).
@@ -16,7 +19,7 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 4. Improve Health
 5. Spend More Time With Family
 
-# February 28, 2016
+# March 6, 2016
 
 ### Apply for Jobs, Learn Stuff Strategically, Family Time
 
