@@ -1,3 +1,17 @@
+030916
+---
+
+- [ ] Review Skillcrush and Treehouse HTML/CSS lessons
+- [ ] Interviews at 1 and 2
+- [ ] Vacuum
+
+Bonus:
+- [ ] Apply for the rest of those digital places, and put reminders on calendar
+- [ ] Apply for [Lumen](http://lumenlearning.com/jobs/technical-support-engineer/#) 
+- [ ] Budget
+- [ ] Figure out other jobs to apply for tomorrow
+- [ ] Prep questions for Drupal meetup tonight
+
 030816
 ---
 - [ ] Work on site with Bjarke and clarify roles
