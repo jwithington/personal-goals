@@ -1,14 +1,15 @@
 030916
 ---
 
-- [ ] Review Skillcrush and Treehouse HTML/CSS lessons
-- [ ] Interviews at 1 and 2
-- [ ] Vacuum
+- [X] Review Skillcrush and Treehouse HTML/CSS lessons
+- [X] Interviews at 1 and 2
+- [X] Vacuum
 
 Bonus:
+
 - [ ] Apply for the rest of those digital places, and put reminders on calendar
 - [ ] Apply for [Lumen](http://lumenlearning.com/jobs/technical-support-engineer/#) 
-- [ ] Budget
+- [X] Budget
 - [ ] Figure out other jobs to apply for tomorrow
 - [ ] Prep questions for Drupal meetup tonight
 
