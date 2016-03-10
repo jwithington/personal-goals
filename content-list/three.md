@@ -1,3 +1,8 @@
+031016
+---
+
+- [ ] pick out places for Saturday
+
 030916
 ---
 
