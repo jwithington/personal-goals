@@ -59,7 +59,7 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 
 ***
 
-- [ ] Finish MongoDB (due Tuesday)
+- [X] Finish MongoDB (due Tuesday)
 - [ ] Schedule coworking time with Bjarke
 - [ ] Get Nav Bar and Scroll working for site
 - [ ] Watch 3 hours of Drupal stuff

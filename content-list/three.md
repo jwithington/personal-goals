@@ -1,7 +1,19 @@
 031016
 ---
 
-- [ ] pick out places for Saturday
+- [ ] Apply for the rest of those digital places, and put reminders on calendar
+- [ ] Start Cooking at 5pm
+- [ ] Code code code: Skullcrush course, more CSS, more HTML, and build some copycat sites
+
+Bonus:
+- [ ] Pick out places for Saturday
+- [X] Submit that pull request for the link I fixed
+- [ ] Apply for more jobs / select jobs to apply to tomorrow
+- [ ] Email Colleen and decide about applying there
+- [ ] Go get a Haircut
+- [ ] Go get jeans
+- [ ] Games at 8pm
+- [ ] Play a game or watch a TNG 
 
 030916
 ---
@@ -13,7 +25,7 @@
 Bonus:
 
 - [ ] Apply for the rest of those digital places, and put reminders on calendar
-- [ ] Apply for [Lumen](http://lumenlearning.com/jobs/technical-support-engineer/#) 
+- [ ] Apply for [Lumen](http://lumenlearning.com/jobs/technical-support-engineer/#)
 - [X] Budget
 - [ ] Figure out other jobs to apply for tomorrow
 - [ ] Prep questions for Drupal meetup tonight
