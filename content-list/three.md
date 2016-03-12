@@ -1,3 +1,10 @@
+031116
+---
+ 
+- [ ] practice coding pages quickly
+- [X] skillcrush course 
+- [X] clean kitchen before Erin gets home 
+
 031016
 ---
 
