@@ -1,7 +1,13 @@
+031216
+---
+- [ ] have fun with Erin 
+- [ ] don't stress about coding 
+- [ ] slow down
+
 031116
 ---
  
-- [ ] practice coding pages quickly
+- [X] practice coding pages quickly
 - [X] skillcrush course 
 - [X] clean kitchen before Erin gets home 
 
@@ -9,8 +15,8 @@
 ---
 
 - [ ] Apply for the rest of those digital places, and put reminders on calendar
-- [ ] Start Cooking at 5pm
-- [ ] Code code code: Skullcrush course, more CSS, more HTML, and build some copycat sites
+- [X] Start Cooking at 5pm
+- [X] Code code code: Skullcrush course, more CSS, more HTML, and build some copycat sites
 
 Bonus:
 - [ ] Pick out places for Saturday

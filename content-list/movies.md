@@ -52,4 +52,5 @@
 - Straight Outta Compton
 - Blade Runner :star:
 - Hail, Caesar!
-- Dope
+- Dope :star:
+- Man Up :star:
