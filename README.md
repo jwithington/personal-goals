@@ -27,11 +27,11 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 
 - [ ] Call Mom
 - [ ] Call Mary Jo
-- [ ] Make supper for Erin on nights I'm home
+- [X] Make supper for Erin on nights I'm home
 - [ ] Start side room cleanup by culling books
-- [ ] Play Dungeon World if group can
+- [X] Play Dungeon World if group can
 - [ ] Go to bed at at 11pm or earlier three times
-    - [ ] 1
+    - [X] 1
     - [ ] 2
     - [ ] 3
 - [ ] Meditate 3 times
@@ -46,7 +46,7 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 
 ***
 
-- [ ] Use 3 things method for daily work
+- [X] Use 3 things method for daily work
 - [ ] Re-examine Chris's original email; what still needs doing?
 
 ***
@@ -60,18 +60,18 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 ***
 
 - [X] Finish MongoDB (due Tuesday)
-- [ ] Schedule coworking time with Bjarke
+- [X] Schedule coworking time with Bjarke
 - [ ] Get Nav Bar and Scroll working for site
 - [ ] Watch 3 hours of Drupal stuff
 - [ ] Do hi-fi mockup for Skillcrush
-- [ ] Work ahead in Skillcrush
+- [X] Work ahead in Skillcrush
 - [ ] Write one post for FCC wiki
 - [ ] Daily: Do a few things on FCC
 
 ***
 
-- [ ] Watch another ST:TNG
-- [ ] Watch a movie
+- [X] Watch another ST:TNG
+- [X] Watch a movie
 
 ### Things I'll Do in the Future:
 - [ ] Find financial advisor
