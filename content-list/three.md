@@ -1,8 +1,23 @@
+031416
+---
+- [ ] Dishes
+- [ ] Laundry
+- [ ] Refresh, regroup, learn
+
+Bonus/Also:
+
+- [ ] Skillcrush
+- [ ] Meetup with Rochelle
+- [ ] Sorta-getting-stale job stuff
+- [ ] Meet with Chris
+
+
+
 031216
 ---
-- [ ] have fun with Erin 
-- [ ] don't stress about coding 
-- [ ] slow down
+- [X] have fun with Erin 
+- [X] don't stress about coding 
+- [X] slow down
 
 031116
 ---

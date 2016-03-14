@@ -65,3 +65,24 @@ Biking away from the Outpost, sunny misty as heck rain, turn around to the rainb
 030816
 ---
 Walking back from the wet downtown streets, happy about a cool Portland night walk, hopeful for the future. 
+
+030916
+---
+The feeling of being able to be honest in an interview was awesome.
+
+031016
+---
+Coding up what I can in an hour. Not bad, and exciting to get better.
+
+031116
+___
+Watching Man Up with Erin. :heart:
+
+031216
+---
+Down time and Downton time.
+
+031316
+---
+The joy of other people playing punk and ska on the jukebox at the Standard.
+
