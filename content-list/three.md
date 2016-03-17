@@ -1,3 +1,16 @@
+031716
+---
+
+- [ ] Shoes to Mall
+- [ ] Call mom
+- [ ] wayfinding academy 
+- [ ] thank you to tom / email to Sonja
+
+Bonus:
+- [ ] catch up skillcrush
+- [ ] attend talks 
+- [ ] research lumen 
+
 031516
 ---
 - [X] Apply for those two jobs
