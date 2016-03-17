@@ -1,8 +1,8 @@
 031516
 ---
-- [ ] Apply for those two jobs
+- [X] Apply for those two jobs
 - [ ] Get some extra Wayfinding work done 
-- [ ] Wayfinding meeting
+- [X] Wayfinding meeting
 
 031416
 ---
