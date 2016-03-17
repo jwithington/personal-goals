@@ -1,15 +1,21 @@
+031516
+---
+- [ ] Apply for those two jobs
+- [ ] Get some extra Wayfinding work done 
+- [ ] Wayfinding meeting
+
 031416
 ---
-- [ ] Dishes
-- [ ] Laundry
+- [X] Dishes
+- [X] Laundry
 - [ ] Refresh, regroup, learn
 
 Bonus/Also:
 
-- [ ] Skillcrush
-- [ ] Meetup with Rochelle
-- [ ] Sorta-getting-stale job stuff
-- [ ] Meet with Chris
+- [X] Skillcrush
+- [X] Meetup with Rochelle
+- [X] Sorta-getting-stale job stuff
+- [X] Meet with Chris
 
 
 
