@@ -1,9 +1,24 @@
+031816
+---
+- [ ] Examine code test and be ready to talk it out
+- [ ] Do related Skillcrush catch up
+- [ ] Leave early for interview
+
+Bonus:
+
+- [ ] Catch up all Skillcrush stuff
+- [ ] Watch missed Skillcrush job stuff
+- [ ] Work on Wayfinding (reply on slack; tab look)
+- [ ] CSS Basics on Treehouse
+- [ ] Cook some dinner
+
+
 031716
 ---
 
 - [X] Shoes to Mall
 - [X] Call mom
-- [ ] wayfinding academy 
+- [X] wayfinding academy 
 - [X] thank you to tom / email to Sonja
 
 Bonus:
