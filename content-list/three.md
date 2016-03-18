@@ -11,6 +11,7 @@ Bonus:
 - [ ] Work on Wayfinding (reply on slack; tab look)
 - [ ] CSS Basics on Treehouse
 - [ ] Cook some dinner
+- [ ] Vacuum
 
 
 031716
