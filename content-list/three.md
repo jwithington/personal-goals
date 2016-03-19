@@ -1,14 +1,14 @@
 031816
 ---
-- [ ] Examine code test and be ready to talk it out
+- [X] Examine code test and be ready to talk it out
 - [ ] Do related Skillcrush catch up
-- [ ] Leave early for interview
+- [X] Leave early for interview
 
 Bonus:
 
 - [ ] Catch up all Skillcrush stuff
 - [ ] Watch missed Skillcrush job stuff
-- [ ] Work on Wayfinding (reply on slack; tab look)
+- [X] Work on Wayfinding (reply on slack; tab look)
 - [ ] CSS Basics on Treehouse
 - [ ] Cook some dinner
 - [ ] Vacuum
@@ -19,19 +19,19 @@ Bonus:
 
 - [X] Shoes to Mall
 - [X] Call mom
-- [X] wayfinding academy 
+- [X] wayfinding academy
 - [X] thank you to tom / email to Sonja
 
 Bonus:
 - [ ] catch up skillcrush
-- [ ] attend talks 
-- [ ] research lumen 
+- [ ] attend talks
+- [ ] research lumen
 
 
 031516
 ---
 - [X] Apply for those two jobs
-- [ ] Get some extra Wayfinding work done 
+- [ ] Get some extra Wayfinding work done
 - [X] Wayfinding meeting
 
 031416
@@ -51,16 +51,16 @@ Bonus/Also:
 
 031216
 ---
-- [X] have fun with Erin 
-- [X] don't stress about coding 
+- [X] have fun with Erin
+- [X] don't stress about coding
 - [X] slow down
 
 031116
 ---
- 
+
 - [X] practice coding pages quickly
-- [X] skillcrush course 
-- [X] clean kitchen before Erin gets home 
+- [X] skillcrush course
+- [X] clean kitchen before Erin gets home
 
 031016
 ---
@@ -77,7 +77,7 @@ Bonus:
 - [ ] Go get a Haircut
 - [ ] Go get jeans
 - [ ] Games at 8pm
-- [ ] Play a game or watch a TNG 
+- [ ] Play a game or watch a TNG
 
 030916
 ---
