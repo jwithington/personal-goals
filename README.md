@@ -3,7 +3,7 @@ Personal Goals
 
 Personal goals made open source. Transparency, accountability, and versioning!
 
-*Note: New [Three Things List here](https://github.com/jwithington/personal-goals/blob/master/content-list/three.md)*
+*Note: I'm using a Daily [Three Things List here](https://github.com/jwithington/personal-goals/blob/master/content-list/three.md)*
 
 
 ✨Please✨ submit a pull request if you see any bugs in my thinking / want to recommend something.

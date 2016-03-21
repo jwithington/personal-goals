@@ -92,8 +92,28 @@ Looking down from the New Relic windows at our beautiful city.
 
 031516
 ---
-That feeling of possibilities fate hearing from so many companies in one day. 
+That feeling of possibilities fate hearing from so many companies in one day. 
+
 
 031617
----
+---
+
 Outside at Martha's with Ryan, Erin, and Tot. 
+
+031716
+---
+Quick! Surprise brie and bread for Erin!
+
+031816
+---
+The view of Mt. Hood from the 17th floor of the Fox Tower.
+
+031916
+---
+Silly times at the Chinese Garden.
+
+032016
+---
+Flexing those support email muscles, remembering that this is something I can do well.
+
+
