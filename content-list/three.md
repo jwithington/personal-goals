@@ -1,7 +1,7 @@
 032116
 ---
 - [ ] Get to interview early
-- [ ] Meet With Chris
+- [ ] Meet with Chris
 - [ ] Put dishes away
 
 Bonus: 
