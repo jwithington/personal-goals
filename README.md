@@ -75,8 +75,8 @@ Commit (to projects and decisions), Stay Light, Keep Building
 
 
 ### Backlog: Side Projects & Other Ideas
-- [Apps & Other Projects](ideas-and-misc/project-ideas.md)
-- [Blog Post Ideas](ideas-and-misc/blog-ideas.md)
+- [Apps & Other Projects](content-list/projects.md)
+- [Blog Post Ideas](content-list/blog.md)
 - [Resources](/resources)
 
 
