@@ -21,57 +21,45 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 
 # March 6, 2016
 
-### Apply for Jobs, Learn Stuff Strategically, Family Time
+#This Week's Focus
+Commit (to projects and decisions), Stay Light, Keep Building
 
 ## Things I'll do This Week:
 
 - [ ] Call Mom
-- [ ] Call Mary Jo
-- [X] Make supper for Erin on nights I'm home
-- [ ] Start side room cleanup by culling books
-- [X] Play Dungeon World if group can
-- [ ] Go to bed at at 11pm or earlier three times
-    - [X] 1
-    - [ ] 2
-    - [ ] 3
-- [ ] Meditate 3 times
+- [ ] Call Mary Jo (if possible while she travels)
+- [ ] Wayfinding work (esp. Tuesday)
+- [ ] Improve / Revamp Personal Site (maybe with Jekyll?)
+- [ ] Run three times
+  - [ ] Monday
+  - [ ] Wednesday
+  - [ ] Friday
+- [ ] Attend JavaScript meeting
+- [ ] Attend Creative Mornings
+- [ ] Meet with Chris
+- [ ] Practice moderation
+- [ ] Meditate twice
+  - [ ] 1
+  - [ ] 2
+- [ ] Three good Tot adventures (she can go on my runs, too)
   - [ ] 1
   - [ ] 2
   - [ ] 3
-- [ ] Add movie recs to list
+- [ ] Bed at 11pm or earlier 3 times
+  - [ ] 1
+  - [ ] 2
+  - [ ] 3
+- [ ] Continue daily 3
+- [ ] Pick a day for sideroom cleanup
+- [ ] Catch up on Skillcrush
 - [ ] Find out how long I have unemployment
-- [ ] Ask for help
-- [ ] Kaiser Appointments
-- [ ] Haircut!
-
-***
-
-- [X] Use 3 things method for daily work
 - [ ] Re-examine Chris's original email; what still needs doing?
-
-***
-
-- [ ] Apply to digital agencies folks mentioned in chat
-- [ ] Followup with recruiters on appropriate days
 - [ ] Finish HelloTech
 - [ ] Check Portland reddit for jobs (and apply for some)(this fits in "ask for help", possibly)
-- [X] Email CN again
-
-***
-
-- [X] Finish MongoDB (due Tuesday)
-- [X] Schedule coworking time with Bjarke
-- [ ] Get Nav Bar and Scroll working for site
-- [ ] Watch 3 hours of Drupal stuff
-- [ ] Do hi-fi mockup for Skillcrush
-- [X] Work ahead in Skillcrush
-- [ ] Write one post for FCC wiki
-- [ ] Daily: Do a few things on FCC
-
-***
-
-- [X] Watch another ST:TNG
-- [X] Watch a movie
+- [ ] Start FCC again
+- [ ] Watch a movie
+- [ ] Watch some TNG
+- [ ] Check README daily
 
 ### Things I'll Do in the Future:
 - [ ] Find financial advisor
