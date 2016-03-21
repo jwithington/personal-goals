@@ -60,6 +60,7 @@ Commit (to projects and decisions), Stay Light, Keep Building
 - [ ] Watch a movie
 - [ ] Watch some TNG
 - [ ] Check README daily
+- [ ] Interview early
 
 ### Things I'll Do in the Future:
 - [ ] Find financial advisor
