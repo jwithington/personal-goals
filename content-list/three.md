@@ -1,3 +1,15 @@
+032116
+---
+- [ ] Get to interview early
+- [ ] Meet With Chris
+- [ ] Put dishes away
+
+Bonus: 
+
+- [ ] Work on Wayfinding if possible
+- [ ] If not, some Skillcrush?
+- [ ] Research Company
+
 031816
 ---
 - [X] Examine code test and be ready to talk it out
