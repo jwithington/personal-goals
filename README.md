@@ -61,6 +61,7 @@ Commit (to projects and decisions), Stay Light, Keep Building
 - [ ] Watch some TNG
 - [ ] Check README daily
 - [ ] Interview early
+- [ ] More code test stuff
 
 ### Things I'll Do in the Future:
 - [ ] Find financial advisor
