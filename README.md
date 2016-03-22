@@ -36,7 +36,7 @@ Commit (to projects and decisions), Stay Light, Keep Building
   - [ ] Friday
 - [ ] Attend JavaScript meeting
 - [ ] Attend Creative Mornings
-- [ ] Meet with Chris
+- [X] Meet with Chris
 - [ ] Practice moderation
 - [ ] Meditate twice
   - [ ] 1

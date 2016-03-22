@@ -1,14 +1,27 @@
+032216
+---
+
+- [ ] Work on Wayfinding
+- [ ] Work on Skillcrush (be caught up soon)
+- [ ] Dishes/bathroom clean
+
+Bonus:
+
+- [ ] Laundry
+- [ ] Groceries
+- [ ] Watch Downton 
+
 032116
 ---
-- [ ] Get to interview early
+- [X] Get to interview early
 - [ ] Meet with Chris
-- [ ] Put dishes away
+- [X] Put dishes away
 
-Bonus: 
+Bonus:
 
 - [ ] Work on Wayfinding if possible
-- [ ] If not, some Skillcrush?
-- [ ] Research Company
+- [X] If not, some Skillcrush?
+- [X] Research Company
 
 031816
 ---
