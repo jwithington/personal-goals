@@ -1,3 +1,16 @@
+032416
+---
+
+- [ ] Taxes
+- [ ] Skillcrush
+- [ ] something nice for the house (dinner?)
+
+Bonus:
+
+- [ ] Wayfinding
+- [ ] an hour for the test
+- [ ] reach out to folks from last night
+
 032316
 ---
 - [X] work on wayfinding
@@ -13,12 +26,12 @@ Bonus:
 - [X] Work on Wayfinding
 - [X] Work on Skillcrush (be caught up soon)
 - [X] Dishes/bathroom clean
- 
+
 Bonus:
 
 - [ ] Laundry
 - [X] Groceries
-- [ ] Watch Downton 
+- [ ] Watch Downton
 
 032116
 ---
