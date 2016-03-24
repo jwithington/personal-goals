@@ -34,7 +34,7 @@ Commit (to projects and decisions), Stay Light, Keep Building
   - [ ] Monday
   - [ ] Wednesday
   - [ ] Friday
-- [ ] Attend JavaScript meeting
+- [X] Attend JavaScript meeting
 - [ ] Attend Creative Mornings
 - [X] Meet with Chris
 - [ ] Practice moderation
