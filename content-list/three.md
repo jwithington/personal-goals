@@ -1,14 +1,23 @@
+032316
+---
+- [X] work on wayfinding
+- [X] laundry
+- [X] skillcrush
+
+Bonus:
+- [X] go to js meetup
+
 032216
 ---
 
-- [ ] Work on Wayfinding
-- [ ] Work on Skillcrush (be caught up soon)
-- [ ] Dishes/bathroom clean
-
+- [X] Work on Wayfinding
+- [X] Work on Skillcrush (be caught up soon)
+- [X] Dishes/bathroom clean
+ 
 Bonus:
 
 - [ ] Laundry
-- [ ] Groceries
+- [X] Groceries
 - [ ] Watch Downton 
 
 032116
