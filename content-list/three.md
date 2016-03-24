@@ -10,6 +10,7 @@ Bonus:
 - [ ] Wayfinding
 - [ ] an hour for the test
 - [ ] reach out to folks from last night
+- [ ] write a reply email
 
 032316
 ---

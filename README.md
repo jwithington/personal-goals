@@ -42,7 +42,7 @@ Commit (to projects and decisions), Stay Light, Keep Building
   - [ ] 1
   - [ ] 2
 - [ ] Three good Tot adventures (she can go on my runs, too)
-  - [ ] 1
+  - [X] 1
   - [ ] 2
   - [ ] 3
 - [ ] Bed at 11pm or earlier 3 times
@@ -55,15 +55,16 @@ Commit (to projects and decisions), Stay Light, Keep Building
 - [ ] Find out how long I have unemployment
 - [ ] Re-examine Chris's original email; what still needs doing?
 - [ ] Finish HelloTech
-- [ ] Check Portland reddit for jobs (and apply for some)(this fits in "ask for help", possibly)
 - [ ] Start FCC again
 - [ ] Watch a movie
 - [ ] Watch some TNG
 - [ ] Check README daily
-- [ ] Interview early
+- [X] Interview early
 - [ ] More code test stuff
 
 ### Things I'll Do in the Future:
+- [ ] Check Portland reddit for jobs (and apply for some)(this fits in "ask for help", possibly)
+- [ ] Get good health care set up
 - [ ] Find financial advisor
 - [ ] Set up savings plan
 - [ ] Start running again
