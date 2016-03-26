@@ -1,16 +1,23 @@
+032516
+---
+
+- [X] email response
+- [X] creative mornings
+- [X] coast!
+
 032416
 ---
 
 - [ ] Taxes
 - [ ] Skillcrush
-- [ ] something nice for the house (dinner?)
+- [X] something nice for the house (dinner?)
 
 Bonus:
 
 - [ ] Wayfinding
 - [ ] an hour for the test
 - [ ] reach out to folks from last night
-- [ ] write a reply email
+- [X] write a reply email
 
 032316
 ---
