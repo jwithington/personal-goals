@@ -27,7 +27,7 @@ Commit (to projects and decisions), Stay Light, Keep Building
 ## Things I'll do This Week:
 
 - [ ] Call Mom
-- [ ] Call Mary Jo (if possible while she travels)
+- [X] Call Mary Jo (if possible while she travels)
 - [X] Wayfinding work (esp. Tuesday)
 - [ ] Improve / Revamp Personal Site (maybe with Jekyll?)
 - [ ] Run three times
