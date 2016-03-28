@@ -28,37 +28,37 @@ Commit (to projects and decisions), Stay Light, Keep Building
 
 - [ ] Call Mom
 - [ ] Call Mary Jo (if possible while she travels)
-- [ ] Wayfinding work (esp. Tuesday)
+- [X] Wayfinding work (esp. Tuesday)
 - [ ] Improve / Revamp Personal Site (maybe with Jekyll?)
 - [ ] Run three times
   - [ ] Monday
   - [ ] Wednesday
   - [ ] Friday
 - [X] Attend JavaScript meeting
-- [ ] Attend Creative Mornings
+- [X] Attend Creative Mornings
 - [X] Meet with Chris
-- [ ] Practice moderation
+- [X] Practice moderation
 - [ ] Meditate twice
   - [ ] 1
   - [ ] 2
 - [ ] Three good Tot adventures (she can go on my runs, too)
   - [X] 1
-  - [ ] 2
-  - [ ] 3
+  - [X] 2
+  - [X] 3
 - [ ] Bed at 11pm or earlier 3 times
   - [ ] 1
   - [ ] 2
   - [ ] 3
-- [ ] Continue daily 3
+- [X] Continue daily 3
 - [ ] Pick a day for sideroom cleanup
 - [ ] Catch up on Skillcrush
 - [ ] Find out how long I have unemployment
 - [ ] Re-examine Chris's original email; what still needs doing?
 - [ ] Finish HelloTech
 - [ ] Start FCC again
-- [ ] Watch a movie
+- [X] Watch a movie
 - [ ] Watch some TNG
-- [ ] Check README daily
+- [X] Check README daily
 - [X] Interview early
 - [ ] More code test stuff
 
