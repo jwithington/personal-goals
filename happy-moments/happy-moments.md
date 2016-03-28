@@ -64,7 +64,7 @@ Biking away from the Outpost, sunny misty as heck rain, turn around to the rainb
 
 030816
 ---
-Walking back from the wet downtown streets, happy about a cool Portland night walk, hopeful for the future. 
+Walking back from the wet downtown streets, happy about a cool Portland night walk, hopeful for the future.
 
 030916
 ---
@@ -88,17 +88,17 @@ The joy of other people playing punk and ska on the jukebox at the Standard.
 
 031416
 ---
-Looking down from the New Relic windows at our beautiful city. 
+Looking down from the New Relic windows at our beautiful city.
 
 031516
 ---
-That feeling of possibilities fate hearing from so many companies in one day. 
+That feeling of possibilities fate hearing from so many companies in one day.
 
 
 031617
 ---
 
-Outside at Martha's with Ryan, Erin, and Tot. 
+Outside at Martha's with Ryan, Erin, and Tot.
 
 031716
 ---
@@ -106,7 +106,7 @@ Quick! Surprise brie and bread for Erin!
 
 031816
 ---
-The view of Mt. Hood from the 17th floor of the Fox Tower.
+The view of Mt. Hood from the 17th floor of the Fox Tower // so much Valeria with Chris!
 
 031916
 ---
@@ -116,4 +116,34 @@ Silly times at the Chinese Garden.
 ---
 Flexing those support email muscles, remembering that this is something I can do well.
 
+032116
+---
+Great experience learning about a new company.
 
+
+032216
+---
+Good times with Ryan at East Burn.
+
+032316
+---
+JS meetup conversation about learning and switching to a coding career.
+
+032416
+---
+Great conversation about life changes with Elizabeth and Michael at Stammtisch.
+
+032516
+---
+Tot, Erin, and me on the beach **running** from the ocean.
+
+032616
+---
+Decided to go to the Batman movie with Ryan!
+
+032716
+---
+Playing with Tot and Erin at the park's parking lot.
+
+032816
+---
