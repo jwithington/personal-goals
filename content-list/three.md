@@ -8,6 +8,7 @@
 Bonus:
 
 - [ ] CSS Lessons on Treehouse
+- [ ] Update PG on Github 
 - [ ] Clean up kitchen table
 - [ ] New saying for Letterfolk sign
 - [ ] Cook supper for Erin
