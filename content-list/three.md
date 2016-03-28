@@ -1,4 +1,21 @@
-- [x] skillcrush 
+032816
+---
+
+- [ ] Drive Skillcrush stuff to **completion**
+- [ ] Get to Wayfinding meeting on time
+- [ ] Do dishes / clean kitchen
+
+Bonus:
+
+- [ ] CSS Lessons on Treehouse
+- [ ] Clean up kitchen table
+- [ ] New saying for Letterfolk sign
+- [ ] Cook supper for Erin
+
+
+032616
+---
+- [X] Skillcrush
 
 032516
 ---
