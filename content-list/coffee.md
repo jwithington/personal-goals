@@ -16,16 +16,16 @@ Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited af
 - [ ] Ristretto (Couch)
 - [X] Ristretto (NoPo) :star:
 - [ ] Red E
-- [ ] Extracto 1
+- [X] Extracto 1
 - [ ] Extracto 2
-- [ ] Coffeehouse Five
+- [X] Coffeehouse Five
 - [ ] Rimsky Korsacoffee
 - [ ] Common Grounds
 - [ ] Fresh Pot (Downtown)
 - [ ] Fresh Pot (Powells)
 - [X] Fresh Pot (Mississippi)
 - [ ] Triumph
-- [ ] Good Coffee (Salmon)
+- [X] Good Coffee (Salmon)
 - [ ] Good Coffee (Division)
 - [ ] Upper Left
 - [ ] Palio
