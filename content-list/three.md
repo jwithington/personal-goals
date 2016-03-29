@@ -2,10 +2,11 @@
 ---
 - [ ] Drive Skillcrush stuff to **completion**
 - [ ] Treehouse responsive layouts course
-- [ ] Meet with Chris
+- [ ] Vacuum
 
 Bonus:
 
+- [ ] Meet with Chris
 - [ ] Update PG on Github
 - [ ] Clean up kitchen table
 - [ ] New saying for Letterfolk sign
