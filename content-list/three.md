@@ -1,8 +1,8 @@
 032916
 ---
-- [ ] Drive Skillcrush stuff to **completion**
+- [X] Drive Skillcrush stuff to **completion**
 - [ ] Treehouse responsive layouts course
-- [ ] Meet with Chris
+- [X] Meet with Chris
 
 Bonus:
 
@@ -10,6 +10,7 @@ Bonus:
 - [ ] Clean up kitchen table
 - [ ] New saying for Letterfolk sign
 - [ ] Cook supper for Erin
+- [ ] keep using Zen Timer
 
 032816
 ---
