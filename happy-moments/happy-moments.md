@@ -147,3 +147,4 @@ Playing with Tot and Erin at the park's parking lot.
 
 032816
 ---
+Heads down, working, full on planning it all with Bjarke. 
