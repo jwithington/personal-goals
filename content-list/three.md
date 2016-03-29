@@ -1,14 +1,27 @@
+032916
+---
+- [ ] Drive Skillcrush stuff to **completion**
+- [ ] Treehouse responsive layouts course
+- [ ] Meet with Chris
+
+Bonus:
+
+- [ ] Update PG on Github
+- [ ] Clean up kitchen table
+- [ ] New saying for Letterfolk sign
+- [ ] Cook supper for Erin
+
 032816
 ---
 
-- [ ] Drive Skillcrush stuff to **completion**
-- [ ] Get to Wayfinding meeting on time
-- [ ] Do dishes / clean kitchen
+- [:thumbsup:] Drive Skillcrush stuff to **completion**
+- [X] Get to Wayfinding meeting on time
+- [X] Do dishes / clean kitchen
 
 Bonus:
 
 - [ ] CSS Lessons on Treehouse
-- [ ] Update PG on Github 
+- [ ] Update PG on Github
 - [ ] Clean up kitchen table
 - [ ] New saying for Letterfolk sign
 - [ ] Cook supper for Erin
