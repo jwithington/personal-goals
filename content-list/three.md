@@ -1,8 +1,8 @@
 032916
 ---
 - [X] Drive Skillcrush stuff to **completion**
-- [ ] Treehouse responsive layouts course
-- [ ] Vacuum
+- [X] Treehouse responsive layouts course
+- [X] Vacuum
 
 Bonus:
 
