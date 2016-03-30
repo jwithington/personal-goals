@@ -147,4 +147,8 @@ Playing with Tot and Erin at the park's parking lot.
 
 032816
 ---
-Heads down, working, full on planning it all with Bjarke. 
+Heads down, working, full on planning it all with Bjarke.
+
+032916
+---
+Those moments during Pinegrove and The World Is a Beautiful Place and I Am No Longer Afraid to Die when I could feel the chills spread. I love live music so much.

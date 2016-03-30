@@ -1,3 +1,22 @@
+033016
+---
+
+- [ ] Do a brain dump and schedule tasks for the next few days
+- [ ] Cook supper for Erin
+- [ ] Meet with Ed and fill out forms for job
+
+Bonus:
+
+- [ ] Schedule a time to (tentatively) code with Bjarke
+- [ ] Clean up kitchen table
+- [ ] Finally do last week's GH reflection
+- [ ] Decide on my website: template, or build from scratch?
+- [ ] Finish Treehouse REST course
+- [ ] Treehouse CSS course work
+- [ ] ST: TNG episode
+- [ ] New saying for Letterfolk sign
+- [ ] keep using Zen Timer
+
 032916
 ---
 - [X] Drive Skillcrush stuff to **completion**
@@ -11,7 +30,6 @@ Bonus:
 - [ ] Clean up kitchen table
 - [ ] New saying for Letterfolk sign
 - [ ] Cook supper for Erin
-- [ ] keep using Zen Timer
 
 032816
 ---
