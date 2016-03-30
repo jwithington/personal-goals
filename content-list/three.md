@@ -8,6 +8,9 @@
 Bonus:
 
 - [ ] Schedule a time to (tentatively) code with Bjarke
+- [ ] discuss Chicago trip with Erin
+- [ ] transfer money for Erin
+- [ ] buy stuff (game, cord, shoes, clippers, etc.)
 - [ ] Clean up kitchen table
 - [ ] Finally do last week's GH reflection
 - [ ] Decide on my website: template, or build from scratch?
