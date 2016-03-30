@@ -1,16 +1,16 @@
 033016
 ---
 
-- [ ] Do a brain dump and schedule tasks for the next few days
+- [X] Do a brain dump and schedule tasks for the next few days
 - [ ] Cook supper for Erin
-- [ ] Meet with Ed and fill out forms for job
+- [X] Meet with Ed and fill out forms for job
 
 Bonus:
 
 - [ ] Schedule a time to (tentatively) code with Bjarke
 - [ ] discuss Chicago trip with Erin
 - [ ] transfer money for Erin
-- [ ] buy stuff (game, cord, shoes, clippers, etc.)
+- [ ] budget, then buy stuff (game, cord, shoes, clippers, etc.)
 - [ ] Clean up kitchen table
 - [ ] Finally do last week's GH reflection
 - [ ] Decide on my website: template, or build from scratch?
