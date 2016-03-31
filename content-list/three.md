@@ -1,3 +1,13 @@
+033116
+---
+- [ ] taxes
+- [ ] dishes 
+- [ ] house
+
+Bonus:
+
+- [ ] wayfinding 
+
 033016
 ---
 
@@ -9,7 +19,7 @@ Bonus:
 
 - [ ] Schedule a time to (tentatively) code with Bjarke
 - [ ] discuss Chicago trip with Erin
-- [ ] transfer money for Erin
+- [X] transfer money for Erin
 - [ ] budget, then buy stuff (game, cord, shoes, clippers, etc.)
 - [ ] Clean up kitchen table
 - [ ] Finally do last week's GH reflection
