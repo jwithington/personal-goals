@@ -1,12 +1,12 @@
 033116
 ---
-- [ ] taxes
-- [ ] dishes 
-- [ ] house
+- [ ] Taxes
+- [ ] Dishes
+- [ ] House
 
 Bonus:
 
-- [ ] wayfinding 
+- [X] Some wayfinding work
 
 033016
 ---
