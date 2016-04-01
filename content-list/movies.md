@@ -52,5 +52,9 @@
 - Straight Outta Compton
 - Blade Runner :star:
 - Hail, Caesar!
+- Anomolisa
 - Dope :star:
 - Man Up :star:
+- The Fifth Element :star:
+- Batman v Superman
+- Feat of a Black Hat
