@@ -1,6 +1,6 @@
 033116
 ---
-- [ ] Taxes
+- [X] Taxes
 - [ ] Dishes
 - [ ] House
 
