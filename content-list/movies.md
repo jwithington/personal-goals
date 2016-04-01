@@ -1,4 +1,4 @@
-# Goal: 52 movies this year (shooting for weekly, now at 7/52)
+# Goal: 52 movies this year (shooting for weekly, now at 12/52)
 
 📽 Please send your recommendations and I'll add them! 🎬
 
