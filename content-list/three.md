@@ -1,7 +1,16 @@
+040116
+---
+- [ ] Side Room work
+- [ ] Rent to Jan
+- [ ] some treehouse
+
+Bonus:
+- [ ] wayfinding
+
 033116
 ---
 - [X] Taxes
-- [ ] Dishes
+- [X] Dishes
 - [ ] House
 
 Bonus:
