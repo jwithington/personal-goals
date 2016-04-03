@@ -1,8 +1,15 @@
+040316
+---
+
+- [ ] Finish my portion of wayfinding as much as possible
+- [ ] work on my portfolio
+- [ ] have fun! its sunday!
+
 040116
 ---
-- [ ] Side Room work
-- [ ] Rent to Jan
-- [ ] some treehouse
+- [:thumbsup:] Side Room work
+- [X] Rent to Jan
+- [X] some treehouse
 
 Bonus:
 - [ ] wayfinding
