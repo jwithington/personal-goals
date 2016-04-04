@@ -6,66 +6,56 @@ Personal goals made open source. Transparency, accountability, and versioning!
 *Note: I'm using the Daily [Three Things List here](https://github.com/jwithington/personal-goals/blob/master/content-list/three.md) more than the main list!*
 
 
-✨Please✨ submit a pull request if you see any bugs in my thinking / want to recommend something.
+✨Please✨ **submit a pull request** if you see any bugs in my thinking / want to recommend something.
 
 Learn more about it where it began, [here](https://github.com/una/personal-goals), [here](http://una.im/personal-goals-guide#💁), and [here](https://www.youtube.com/watch?v=xQEU0ZsvXYI).
 
 # Theme for 2016: Just Decide
 
 # Overarching Goals for 2016
+
 1. Learn JavaScript, HTML, CSS well
 2. Get a Job I Enjoy and Save Money
 3. Create Things For Myself and Others
 4. Improve Health
 5. Spend More Time With Family
 
-# March 6, 2016
+# April 3, 2016
 
-#This Week's Focus
-Commit (to projects and decisions), Stay Light, Keep Building
+# This Week's Focus
+Get Set Up, Stay Light, and Close Loops
 
 ## Things I'll do This Week:
 
 - [ ] Call Mom
-- [X] Call Mary Jo (if possible while she travels)
-- [X] Wayfinding work (esp. Tuesday)
-- [ ] Improve / Revamp Personal Site (maybe with Jekyll?)
+- [ ] Call Mary Jo
 - [ ] Run three times
   - [ ] Monday
   - [ ] Wednesday
   - [ ] Friday
-- [X] Attend JavaScript meeting
-- [X] Attend Creative Mornings
-- [X] Meet with Chris
-- [X] Practice moderation
 - [ ] Meditate twice
   - [ ] 1
   - [ ] 2
-- [ ] Three good Tot adventures (she can go on my runs, too)
-  - [X] 1
-  - [X] 2
-  - [X] 3
 - [ ] Bed at 11pm or earlier 3 times
   - [ ] 1
   - [ ] 2
   - [ ] 3
-- [X] Continue daily 3
-- [ ] Pick a day for sideroom cleanup
-- [ ] Catch up on Skillcrush
-- [ ] Find out how long I have unemployment
-- [ ] Re-examine Chris's original email; what still needs doing?
-- [ ] Finish HelloTech
-- [ ] Start FCC again
-- [X] Watch a movie
-- [ ] Watch some TNG
-- [X] Check README daily
-- [X] Interview early
-- [ ] More code test stuff
+- [ ] Complete side room
+- [ ] Complete online portfolio
+- [ ] Watch some ST:TNG
+- [ ] Attempt to finish Treehouse CSS work
+- [ ] Finish reading CSS book
+- [ ] Buy jeans (and other clothing?)
+- [ ] Review this on Saturday or Sunday
+- [ ] Stay on top of new Skillcrush course
+- [ ] meet with Chris; discuss new life with new job
+- [ ] fill out student loan shizz
 
 ### Things I'll Do in the Future:
-- [ ] Check Portland reddit for jobs (and apply for some)(this fits in "ask for help", possibly)
+
 - [ ] Get good health care set up
 - [ ] Find financial advisor
+- [ ] Start the Homeowner Learning project
 - [ ] Set up savings plan
 - [ ] Start running again
 - [ ] Find a gym

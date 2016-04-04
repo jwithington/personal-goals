@@ -5,6 +5,9 @@
 - [ ] work on my portfolio
 - [ ] have fun! its sunday!
 
+Bonus:
+- [ ] "Weekly" review
+
 040116
 ---
 - [:thumbsup:] Side Room work
