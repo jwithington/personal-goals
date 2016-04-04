@@ -1,10 +1,21 @@
+040416
+---
+
+- [X] Meet Bjarke/work hard on wayfinding
+- [X] Start Skillcrush course
+- [ ] Work on portfolio
+
+Bonus:
+
+- [ ] Work on side room a bit
+
 040316
 ---
 
 - [X] Finish my portion of wayfinding as much as possible
-- [ ] work on my portfolio
-- [ ] have fun! its sunday!
-
+- [X] work on my portfolio
+- [X] have fun! its sunday!
+Ã
 Bonus:
 - [X] "Weekly" review
 
