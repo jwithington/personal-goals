@@ -1,12 +1,12 @@
 040316
 ---
 
-- [ ] Finish my portion of wayfinding as much as possible
+- [X] Finish my portion of wayfinding as much as possible
 - [ ] work on my portfolio
 - [ ] have fun! its sunday!
 
 Bonus:
-- [ ] "Weekly" review
+- [X] "Weekly" review
 
 040116
 ---
