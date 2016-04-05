@@ -3,11 +3,11 @@
 
 - [X] Meet Bjarke/work hard on wayfinding
 - [X] Start Skillcrush course
-- [ ] Work on portfolio
+- [X] Work on portfolio
 
 Bonus:
 
-- [ ] Work on side room a bit
+- [X] Work on side room a bit
 
 040316
 ---
