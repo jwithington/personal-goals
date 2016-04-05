@@ -28,7 +28,7 @@ Get Set Up, Stay Light, and Close Loops
 ## Things I'll do This Week:
 
 - [ ] Call Mom
-- [ ] Call Mary Jo
+- [X] Call Mary Jo
 - [ ] Run three times
   - [ ] Monday
   - [ ] Wednesday
