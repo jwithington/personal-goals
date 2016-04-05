@@ -1,3 +1,17 @@
+040516
+---
+
+- [ ] Make the side room awesome
+- [ ] catch up Skillcrush
+- [ ] nice walk for Tot
+
+Bonus:
+
+- [ ] cook cod
+- [ ] meet with Chris
+- [ ] coding meetup
+- [ ] work on website basic structure
+
 040416
 ---
 
@@ -15,7 +29,7 @@ Bonus:
 - [X] Finish my portion of wayfinding as much as possible
 - [X] work on my portfolio
 - [X] have fun! its sunday!
-Ã
+ï¿½
 Bonus:
 - [X] "Weekly" review
 
