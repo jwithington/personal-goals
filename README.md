@@ -53,6 +53,7 @@ Get Set Up, Stay Light, and Close Loops
 
 ### Things I'll Do in the Future:
 
+- [ ] Complete [this tutorial](http://1stwebdesigner.com/psd-to-html/)
 - [ ] Get good health care set up
 - [ ] Find financial advisor
 - [ ] Start the Homeowner Learning project
