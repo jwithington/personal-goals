@@ -1,3 +1,28 @@
+040616
+---
+
+- [ ] Skillcrush meeting and assignment catch up
+- [ ] Wayfinding meeting and involvement talk
+- [ ] work on my portfolio site
+
+Bonus:
+- [ ] good walk for tot
+- [ ] side room / hall closet shizz
+
+040516
+---
+
+- [:thumbsup:] Make the side room awesome
+- [:thumbsup:] catch up Skillcrush
+- [X] nice walk for Tot
+
+Bonus:
+
+- [ ] cook cod
+- [X] meet with Chris
+- [ ] coding meetup
+- [ ] work on website basic structure
+
 040416
 ---
 
@@ -15,7 +40,7 @@ Bonus:
 - [X] Finish my portion of wayfinding as much as possible
 - [X] work on my portfolio
 - [X] have fun! its sunday!
-Ã
+ï¿½
 Bonus:
 - [X] "Weekly" review
 
