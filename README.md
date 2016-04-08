@@ -48,7 +48,7 @@ Get Set Up, Stay Light, and Close Loops
 - [ ] Buy jeans (and other clothing?)
 - [ ] Review this on Saturday or Sunday
 - [ ] Stay on top of new Skillcrush course
-- [ ] meet with Chris; discuss new life with new job
+- [:thumbsup:] meet with Chris; discuss new life with new job
 - [ ] fill out student loan shizz
 
 ### Things I'll Do in the Future:

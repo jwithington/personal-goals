@@ -156,3 +156,34 @@ Those moments during Pinegrove and The World Is a Beautiful Place and I Am No Lo
 033116
 ---
 Surprised Erin by joining her at the park -- she was so happy! Tot was, too.
+
+040116
+---
+Great bike ride near Laurelhurst/Hollywood.
+
+040216
+---
+Laughing about passport photos with the dude who was taking them.
+
+040316
+---
+Watching shows with Erin.
+
+040416
+---
+Meeting with the Bjarke, getting things done!
+
+040516
+---
+Tot has a standoff with a bear cub statue.
+
+040616
+---
+Goofy bets at the Blazers/Thunder game.  No one expected CJ to get the next dunk!
+
+040716
+---
+Reminiscing online about photos with Kerri Klein.
+
+040816
+---

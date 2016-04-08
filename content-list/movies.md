@@ -9,6 +9,7 @@
 - Ten things I hate about you
 - Jurassic Park (any)
 - Iron Man
+- Memento
 
 ### Stuff I've Wanted to see for while
 - Django Unchained
@@ -18,6 +19,7 @@
 - Tomorrowland
 - Hackers
 - Gimme shelter
+- District 9
 
 ### Toons I've Missed
 - Monsters University

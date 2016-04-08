@@ -1,9 +1,20 @@
+040816
+---
+- [ ] Finish side room
+- [ ] Dishes
+- [ ] work towards launching my site
+
+Bonus:
+
+- [ ] work on skillcrush some
+- [ ] check on wayfinding
+
 040716
 ---
 
-- [ ] watch a thing
-- [ ] clean side room
-- [ ] dishes away 
+- [X] watch a thing
+- [:thumbsup:] clean side room
+- [ ] dishes away
 
 040616
 ---
