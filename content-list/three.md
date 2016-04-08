@@ -1,9 +1,16 @@
+040716
+---
+
+- [ ] watch a thing
+- [ ] clean side room
+- [ ] dishes away 
+
 040616
 ---
 
-- [ ] Skillcrush meeting and assignment catch up
-- [ ] Wayfinding meeting and involvement talk
-- [ ] work on my portfolio site
+- [thumbsup:] Skillcrush meeting and assignment catch up
+- [X] Wayfinding meeting and involvement talk
+- [X] work on my portfolio site
 
 Bonus:
 - [ ] good walk for tot
