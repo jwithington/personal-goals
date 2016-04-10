@@ -1,8 +1,15 @@
+040916
+---
+
+- [X] mentorship
+- [X] ❌⭕️❌⭕️ party
+- [X]nice time with Erin 
+
 040816
 ---
-- [ ] Finish side room
+- [X] Finish side room :party:
 - [ ] Dishes
-- [ ] work towards launching my site
+- [X] work towards launching my site
 
 Bonus:
 
