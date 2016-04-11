@@ -1,3 +1,10 @@
+041016
+---
+
+- [X] Finish and launch site
+- [X] Brunch
+- [X] let the day come to me 
+
 040916
 ---
 
