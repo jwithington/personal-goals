@@ -1,16 +1,23 @@
+041116
+---
+
+- [X] get to work early
+- [X] be easy on myself
+- [X] make decisions that will support work tomorrow
+
 041016
 ---
 
 - [X] Finish and launch site
 - [X] Brunch
-- [X] let the day come to me 
+- [X] let the day come to me
 
 040916
 ---
 
 - [X] mentorship
 - [X] ❌⭕️❌⭕️ party
-- [X]nice time with Erin 
+- [X]nice time with Erin
 
 040816
 ---

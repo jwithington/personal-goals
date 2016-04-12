@@ -5,6 +5,9 @@
 - [ ] [Skillcrush Typography Pairing Master Class](http://skillcrush.com/skill-resource/master-class-katie-kovalcin-typography-pairing-type/)
 - [ ] [Skillcrush Intro to Sass with Una](http://skillcrush.com/skill-resource/master-class-una-kravits/)
 - [X] [Power Poses](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en)
+- [ ] [What the Heck is Octopress and Why Should I Care?](https://www.youtube.com/watch?v=KS6e4XxY2H4&feature=youtu.be)
+- [ ] [The rest of the JekyllConf 2015 stuff](https://www.youtube.com/playlist?list=PLrxYIq_0LFJcXlsRZD-JCdITfZexwvqsQ&nohtml5=False)
+- [ ] [Jekyll Casts](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh&nohtml5=False)
 
 ### XOXO Stuff
 
