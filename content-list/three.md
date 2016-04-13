@@ -1,3 +1,10 @@
+041216
+---
+
+- [X] get to work early
+- [X] support Erin and our family
+- [X] cancel plans
+
 041116
 ---
 
