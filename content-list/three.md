@@ -1,3 +1,9 @@
+041316
+---
+- [X] get to work early
+- [ ] support Erin and our family
+- [ ] game night
+
 041216
 ---
 
