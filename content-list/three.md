@@ -1,9 +1,10 @@
 041316
 ---
 - [X] get to work early
-- [ ] support Erin and our family
-- [ ] game night
-
+- [:thumbsup:] support Erin and our family
+- [X] game night
+
+
 041216
 ---
 
