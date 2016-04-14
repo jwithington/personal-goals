@@ -1,5 +1,11 @@
 041316
 ---
+- [ ] help folks out 
+- [ ] 
+- [ ] moderation at show
+
+041316
+---
 - [X] get to work early
 - [:thumbsup:] support Erin and our family
 - [X] game night
