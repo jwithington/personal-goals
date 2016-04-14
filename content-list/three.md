@@ -1,7 +1,7 @@
-041316
+041416
 ---
 - [ ] help folks out 
-- [ ] 
+- [ ] pay close attention 
 - [ ] moderation at show
 
 041316
