@@ -1,8 +1,15 @@
+041516
+---
+
+- [ ] learn some good stuff during labs
+- [ ] set up chris meeting
+- [ ] work early
+
 041416
 ---
-- [ ] help folks out 
-- [ ] pay close attention 
-- [ ] moderation at show
+- [x] help folks out 
+- [X] pay close attention 
+- [X] moderation at show
 
 041316
 ---
