@@ -1,3 +1,21 @@
+041716
+---
+- [X] budget
+- [ ] groceries
+- [ ] student loan thing
+
+bonus:
+- [ ] figure out bills
+- [ ] laundry
+- [X] play nba game
+- [ ] game at ryan's at 730
+- [ ] send spraynard to tim
+- [ ] decide: promise ring record?
+- [ ] github goals
+- [ ] class stuff
+- [ ] dishes
+- [X] soul asylum
+
 041516
 ---
 
