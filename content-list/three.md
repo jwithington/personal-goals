@@ -1,9 +1,9 @@
 041516
 ---
 
-- [ ] learn some good stuff during labs
-- [ ] set up chris meeting
-- [ ] work early
+- [X] learn some good stuff during labs
+- [X] set up chris meeting
+- [X] work early
 
 041416
 ---
