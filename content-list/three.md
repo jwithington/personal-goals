@@ -1,3 +1,13 @@
+041816
+---
+- [ ] pay close attention 
+- [X] get to work early
+- [X] cancel happy hour
+
+Bonus:
+
+- [X] take a shorter lunch
+
 041716
 ---
 - [X] budget
