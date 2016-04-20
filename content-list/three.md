@@ -1,6 +1,12 @@
-041816
+042016
 ---
 - [ ] pay close attention 
+- [ ] screen off when needed
+- [ ] read when there's downtime
+- 
+041816
+---
+- [:thumbsup:] pay close attention 
 - [X] get to work early
 - [X] cancel happy hour
 
