@@ -17,11 +17,11 @@ Bonus:
 041716
 ---
 - [X] budget
-- [ ] groceries
-- [ ] student loan thing
+- [X] groceries
+- [X] student loan thing
 
 bonus:
-- [ ] figure out bills
+- [X] figure out bills
 - [ ] laundry
 - [X] play nba game
 - [ ] game at ryan's at 730
@@ -29,7 +29,7 @@ bonus:
 - [ ] decide: promise ring record?
 - [ ] github goals
 - [ ] class stuff
-- [ ] dishes
+- [X] dishes
 - [X] soul asylum
 
 041516
