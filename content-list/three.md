@@ -1,8 +1,14 @@
-042016
+042116
 ---
 - [ ] pay close attention 
 - [ ] screen off when needed
 - [ ] read when there's downtime
+- 
+042016
+---
+- [X] pay close attention 
+- [X] screen off when needed
+- [X] read when there's downtime
  
 041816
 ---
