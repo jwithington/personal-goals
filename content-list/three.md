@@ -3,7 +3,7 @@
 - [ ] pay close attention 
 - [ ] screen off when needed
 - [ ] read when there's downtime
-- 
+
 042016
 ---
 - [X] pay close attention 
