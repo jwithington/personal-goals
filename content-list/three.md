@@ -1,8 +1,19 @@
-042116
+042216
 ---
 - [ ] pay close attention 
-- [ ] screen off when needed
-- [ ] read when there's downtime
+- [ ] screen off / minimized when needed
+- [ ] **DON'T STRESS TRIP LEAVING TIME**
+
+Bonus
+---
+- [ ] go get snacks for trip
+- [ ] make playlist for trip
+
+042116
+---
+- [X] pay close attention 
+- [X] screen off when needed
+- [X] read when there's downtime
 
 042016
 ---
