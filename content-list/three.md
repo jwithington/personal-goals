@@ -4,8 +4,8 @@
 - [ ] screen off / minimized when needed
 - [ ] **DON'T STRESS TRIP LEAVING TIME**
 
-Bonus
----
+Bonus:
+
 - [ ] go get snacks for trip
 - [ ] make playlist for trip
 
