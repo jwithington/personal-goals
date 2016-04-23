@@ -1,8 +1,29 @@
+042216
+---
+- [X] pay close attention 
+- [X] screen off / minimized when needed
+- [X] **DON'T STRESS TRIP LEAVING TIME**
 
+Bonus:
 
+- [ ] go get snacks for trip
+- [ ] make playlist for trip
+
+042116
+---
+- [X] pay close attention 
+- [X] screen off when needed
+- [X] read when there's downtime
+
+042016
+---
+- [X] pay close attention 
+- [X] screen off when needed
+- [X] read when there's downtime
+ 
 041816
 ---
-- [ ] pay close attention 
+- [:thumbsup:] pay close attention 
 - [X] get to work early
 - [X] cancel happy hour
 
@@ -13,11 +34,11 @@ Bonus:
 041716
 ---
 - [X] budget
-- [ ] groceries
-- [ ] student loan thing
+- [X] groceries
+- [X] student loan thing
 
 bonus:
-- [ ] figure out bills
+- [X] figure out bills
 - [ ] laundry
 - [X] play nba game
 - [ ] game at ryan's at 730
@@ -25,7 +46,7 @@ bonus:
 - [ ] decide: promise ring record?
 - [ ] github goals
 - [ ] class stuff
-- [ ] dishes
+- [X] dishes
 - [X] soul asylum
 
 041516
