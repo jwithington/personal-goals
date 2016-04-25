@@ -1,3 +1,8 @@
+042416
+---
+
+- [X] do better
+
 042216
 ---
 - [X] pay close attention 
