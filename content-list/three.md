@@ -1,6 +1,14 @@
 042416
 ---
 
+- [ ] pay close attention 
+- [ ] screen off / minimized when needed
+- [ ] use extra time for reading
+
+
+042416
+---
+
 - [X] do better
 
 042216
