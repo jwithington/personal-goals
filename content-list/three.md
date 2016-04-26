@@ -1,9 +1,16 @@
-042416
+042616
 ---
 
-- [ ] pay close attention 
-- [ ] screen off / minimized when needed
-- [ ] use extra time for reading
+- [] Short lunch so I can meet Chris
+- [] Turn off stuff to help focus
+- [] Read when I can
+
+042516
+---
+
+- [X] pay close attention 
+- [X] screen off / minimized when needed
+- [X] use extra time for reading
 
 
 042416
