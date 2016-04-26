@@ -1,9 +1,9 @@
 042616
 ---
 
-- [] Short lunch so I can meet Chris
-- [] Turn off stuff to help focus
-- [] Read when I can
+- [ ] Short lunch so I can meet Chris
+- [ ] Turn off stuff to help focus
+- [ ] Read when I can
 
 042516
 ---
