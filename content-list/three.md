@@ -1,9 +1,21 @@
+042716
+---
+
+- [ ] Turn off stuff to help focus
+- [ ] Self care tonight
+- [ ] Empty dishes
+ 
+
+Bonus:
+
+- [ ] read extra
+
 042616
 ---
 
-- [ ] Short lunch so I can meet Chris
-- [ ] Turn off stuff to help focus
-- [ ] Read when I can
+- [X] Short lunch so I can meet Chris
+- [:thumbsup:] Turn off stuff to help focus
+- [X] Read when I can
 
 042516
 ---
