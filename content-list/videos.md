@@ -8,6 +8,7 @@
 - [ ] [What the Heck is Octopress and Why Should I Care?](https://www.youtube.com/watch?v=KS6e4XxY2H4&feature=youtu.be)
 - [ ] [The rest of the JekyllConf 2015 stuff](https://www.youtube.com/playlist?list=PLrxYIq_0LFJcXlsRZD-JCdITfZexwvqsQ&nohtml5=False)
 - [ ] [Jekyll Casts](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh&nohtml5=False)
+- [ ] [More of Una's Talks](http://una.im/speaking/#)
 
 ### XOXO Stuff
 
