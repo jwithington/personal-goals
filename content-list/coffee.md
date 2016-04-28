@@ -6,7 +6,7 @@ Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited af
 - [ ] either/or
 - [X] Cafe Ponte
 - [X] Heart (Eastside) :heart:
-- [ ] Heart (Westside)
+- [X] Heart (Westside)
 - [ ] Heart (Roastery)
 - [X] Stumptown (Downtown) :star: (though internet = :poop:)
 - [ ] Stumptown (Division)
