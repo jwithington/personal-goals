@@ -1,9 +1,16 @@
+042816
+---
+
+- [ ] Turn off stuff / listen to music to help focus
+- [ ] Make house nicer
+- [ ] Have fun or learn a thing tonight
+
 042716
 ---
 
-- [ ] Turn off stuff to help focus
-- [ ] Self care tonight
-- [ ] Empty dishes
+- [X] Turn off stuff to help focus
+- [X] Self care tonight
+- [X] Empty dishes
  
 
 Bonus:
