@@ -10,20 +10,20 @@ Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited af
 - [ ] Heart (Roastery)
 - [X] Stumptown (Downtown) :star: (though internet = :poop:)
 - [ ] Stumptown (Division)
-- [ ] Stumptown (Ace)
+- [X] Stumptown (Ace)
 - [ ] Stumptown (Cupping Room)
 - [ ] That Beaverton one I can't remember
 - [ ] The place that replaced Funky Door
-- [ ] Ristretto (Couch)
+- [X] Ristretto (Couch) :star:
 - [X] Ristretto (NoPo) :star:
-- [ ] Red E
+- [X] Red E
 - [X] Extracto 1
 - [ ] Extracto 2
 - [X] Coffeehouse Five
 - [ ] Rimsky Korsacoffee
 - [ ] Common Grounds
 - [ ] Fresh Pot (Downtown)
-- [ ] Fresh Pot (Powells)
+- [X] Fresh Pot (Powells)
 - [X] Fresh Pot (Mississippi)
 - [ ] Triumph
 - [X] Good Coffee (Salmon)
