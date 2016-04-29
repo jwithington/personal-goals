@@ -1,9 +1,16 @@
 042816
 ---
 
-- [ ] Turn off stuff / listen to music to help focus
-- [ ] Make house nicer
-- [ ] Have fun or learn a thing tonight
+- [ ] learn stuff
+- [ ] work hard
+- [ ] watch blazers
+
+042816
+---
+
+- [X] Turn off stuff / listen to music to help focus
+- [X] Make house nicer
+- [X] Have fun or learn a thing tonight
 
 042716
 ---
