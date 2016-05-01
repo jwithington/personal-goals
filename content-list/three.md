@@ -1,9 +1,9 @@
 042816
 ---
 
-- [ ] Turn off stuff / listen to music to help focus
+- [X] Turn off stuff / listen to music to help focus
 - [ ] Make house nicer
-- [ ] Have fun or learn a thing tonight
+- [X] Have fun or learn a thing tonight
 
 042716
 ---
