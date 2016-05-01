@@ -1,4 +1,15 @@
-042816
+050116
+---
+- [X] empty dishwasher
+- [X] clean kitchen table 
+- [X] go to bed early 
+
+Bonus
+- [ ] skill crush alum and class stuff
+- [ ] write Tinyletter
+
+
+042916
 ---
 
 - [X] learn stuff
