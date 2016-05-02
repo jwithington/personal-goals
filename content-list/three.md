@@ -1,8 +1,20 @@
+050216
+---
+- [ ] pay close attention
+- [ ] Make calls during lunch (if possible)
+- [ ] go to bed 11pm or before
+- 
+
+Bonus:
+
+- [ ] go buy snacks
+- [ ] bring home flowers
+
 050116
 ---
 - [X] empty dishwasher
 - [X] clean kitchen table 
-- [X] go to bed early 
+- [ ] go to bed early 
 
 Bonus
 - [ ] skill crush alum and class stuff
