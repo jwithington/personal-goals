@@ -3,7 +3,7 @@
 - [ ] pay close attention
 - [ ] Make calls during lunch (if possible)
 - [ ] go to bed 11pm or before
-- 
+
 
 Bonus:
 
