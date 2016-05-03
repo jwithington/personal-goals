@@ -1,13 +1,23 @@
 050216
 ---
+
 - [ ] pay close attention
+- [ ] make calls if possible
+- [ ] bed early
+
+Bonus: 
+- [ ] bring home flowers
+
+050216
+---
+- [X] pay close attention
 - [ ] Make calls during lunch (if possible)
-- [ ] go to bed 11pm or before
+- [X] go to bed 11pm or before
 
 
 Bonus:
 
-- [ ] go buy snacks
+- [X] go buy snacks
 - [ ] bring home flowers
 
 050116
