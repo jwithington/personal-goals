@@ -1,9 +1,19 @@
 050316
 ---
 
+- [X] follow up email
 - [ ] pay close attention
-- [ ] make calls if possible
-- [ ] bed early
+- [ ] don't be hard on myself about asking things
+
+Bonus:
+- [ ] flowers after work
+
+050316
+---
+
+- [X] pay close attention
+- [X] make calls if possible
+- [:thumbsdown:] bed early
 
 Bonus: 
 - [ ] bring home flowers
