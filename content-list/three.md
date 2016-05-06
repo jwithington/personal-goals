@@ -1,9 +1,15 @@
+050616
+---
+- [ ] do cool lab stuff
+- [:thumbsup:] work hard on form
+- [ ] have fun with erin
+
 050316
 ---
 
 - [X] follow up email
-- [ ] pay close attention
-- [ ] don't be hard on myself about asking things
+- [X] pay close attention
+- [X] don't be hard on myself about asking things
 
 Bonus:
 - [ ] flowers after work
