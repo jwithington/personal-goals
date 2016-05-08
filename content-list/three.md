@@ -1,9 +1,16 @@
+050716
+---
+
+- [ ] rest
+- [xconference
+- [ ] lots of water 
+
 050616
 ---
-- [ ] do cool lab stuff
+- [X] do cool lab stuff
 - [:thumbsup:] work hard on form
-- [ ] have fun with erin
-
+- [🤒] have fun with erin
+ 
 050316
 ---
 
