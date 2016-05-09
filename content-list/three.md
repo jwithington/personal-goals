@@ -1,9 +1,9 @@
 050716
 ---
 
-- [ ] rest
-- [xconference
-- [ ] lots of water 
+- [x] rest
+- [x] conference
+- [x] lots of water 
 
 050616
 ---
