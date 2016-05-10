@@ -1,3 +1,12 @@
+050916
+---
+
+- [x] rest
+- [x] easy on vid games
+- [x] lots of water 
+
+
+
 050716
 ---
 
