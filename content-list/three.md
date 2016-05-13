@@ -1,7 +1,13 @@
-051116
----
+051216
+---
+Work hard
+Rest
 
-Ramen
+051116
+---
+
+
+- Ramen
 Doctor
 Comfort
 
@@ -17,7 +23,7 @@ Comfort
 050716
 ---
 
-- [x] rest
+- [x] restk
 - [x] conference
 - [x] lots of water 
 
