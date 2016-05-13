@@ -1,15 +1,20 @@
+051316
+---
+- [X] Work hard
+- [ ] Have fun
+- [X] Ask good questions
+
 051216
 ---
-Work hard
-Rest
+- [X] Work hard
+- [X] Rest
 
 051116
 ---
 
-
-- Ramen
-Doctor
-Comfort
+- [X] Ramen
+- [X] Doctor
+- [X] Comfort
 
 050916
 ---
