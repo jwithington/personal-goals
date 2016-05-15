@@ -60,3 +60,4 @@
 - The Fifth Element :star:
 - Batman v Superman
 - Fear of a Black Hat
+- Midnight Special :star:
