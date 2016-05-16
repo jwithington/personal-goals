@@ -1,3 +1,12 @@
+051616
+---
+- [ ] Work hard
+- [ ] Good Erin time tonight
+- [ ] Ask good questions
+
+Bonus:
+- [ ] go buy some toothbrushes
+
 051316
 ---
 - [X] Work hard
