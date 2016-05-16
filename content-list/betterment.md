@@ -1,4 +1,4 @@
-Inspired by the List of Betterment in Andy Williams' book A Year of Dangerous Reading. 
+Inspired by the List of Betterment in Andy Miller's book [*The Year of Reading Dangerously*](http://www.amazon.com/Year-Reading-Dangerously-Fifty-Not-So-Great/dp/0061446181).
 
 - Consider Phlebas
 - Celine Dion 33 1/3
