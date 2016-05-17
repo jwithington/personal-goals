@@ -1,11 +1,11 @@
 051616
 ---
-- [ ] Work hard
+- [X] Work hard
 - [ ] Good Erin time tonight
-- [ ] Ask good questions
+- [X] Ask good questions
 
 Bonus:
-- [ ] go buy some toothbrushes
+- [X] go buy some toothbrushes
 
 051316
 ---
