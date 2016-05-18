@@ -1,7 +1,7 @@
 051616
 ---
 - [X] Work hard
-- [ ] Good Erin time tonight
+- [X] Good Erin time tonight
 - [X] Ask good questions
 
 Bonus:
