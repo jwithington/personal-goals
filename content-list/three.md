@@ -1,8 +1,14 @@
+051916
+---
+- [X] learn a lot at work
+- [ ] work on learning after work
+- [ ] get enough sleep
+
 051816
 ---
 - [X] learn a lot at work
 - [X] work on learning after work
-- [ ] get enough sleep
+- [:thumbsup:] get enough sleep
 
 051616
 ---
