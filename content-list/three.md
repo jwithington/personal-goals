@@ -1,7 +1,13 @@
+052416
+---
+- [ ] work on ruby stuff
+- [ ] go to bed early
+- [ ] make phone call
+
 051916
 ---
 - [X] learn a lot at work
-- [ ] work on learning after work
+- [X] work on learning after work
 - [ ] get enough sleep
 
 051816
