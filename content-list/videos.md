@@ -9,7 +9,6 @@
 - [ ] [The rest of the JekyllConf 2015 stuff](https://www.youtube.com/playlist?list=PLrxYIq_0LFJcXlsRZD-JCdITfZexwvqsQ&nohtml5=False)
 - [ ] [Jekyll Casts](https://www.youtube.com/playlist?list=PLrxYIq_0LFJc0TfNbv24cuFD1IaUtkzrh&nohtml5=False)
 - [ ] [More of Una's Talks](http://una.im/speaking/#)
-
 - [ ] [the police](https://vimeo.com/141557196)
 - [ ] [Nebraska JS Conf 2015](https://www.youtube.com/watch?v=Xve7QCNNeMs&list=PLzcPHbGhqFeTHP1nCW4JFjtixxNFdHouO)
 
