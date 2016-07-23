@@ -1,4 +1,4 @@
-# Goal: 52 movies this year (shooting for weekly, now at 12/52)
+# Goal: 52 movies this year (shooting for weekly, now at 18/52)
 
 📽 Please send your recommendations and I'll add them! 🎬
 
@@ -65,3 +65,5 @@
 - Xmen Days of Future Past
 - Deadpool
 - Everybody Wants Some! :star: :baseball:
+- 2001 in 70mm 🌈🌠
+- Sisters 👯
