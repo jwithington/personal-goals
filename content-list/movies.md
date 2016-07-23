@@ -47,6 +47,7 @@
 ###Artsy Fartsy
 - Solaris (the old one)
 - all them criterion movies
+- Millennium Actress
 
 ###Log (Stuff I Saw)
 - Love & Mercy
