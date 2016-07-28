@@ -28,3 +28,4 @@
 - [ ] [Here Be Dragons](https://youtu.be/3ZHN2btOjL8)
 - [ ] [Skunkworks](https://youtu.be/ggPE-JHzfAM)
 - [ ][You are not an impostor](https://youtu.be/l_Vqp1dPuPo)
+- [ ] [Code like a writer](https://youtu.be/XfvKpYgi7fI)
