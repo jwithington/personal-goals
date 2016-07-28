@@ -14,3 +14,4 @@ Things I want to work on.
 - [ ] Reading App for hack.guides()
 - [ ] [Thinking hats CLI](https://developertea.com/episodes/27704) and surge site
 - [ ] Personal Fakebook -- saves songs you like to play on guitar to a central place with exporting, etc.
+- [ ] keep track of meetups gone to, for proof : profiles later. 
