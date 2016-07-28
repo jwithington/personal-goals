@@ -25,3 +25,6 @@
 - [ ] [Andy Appleton: Done is Better Than Perfect - Beyond Conf 2015](https://youtu.be/fELVZkzXRw8)
 - [ ] [Rachel Nabors: the Web in Motion](https://www.youtube.com/watch?v=jX_TWlDe-Is&feature=youtu.be&list=PLBevk0eXLOGdZ4yHChA-JW69DCBe7uGkJ&utm_content=bufferbb27d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [ ] [The Lessons of GamerGate by Jean MacDonald, Brianna Wu, & Aleen Simms](https://realm.io/news/altconf-jean-macdonald-brianna-wu-aleen-simms-the-lessons-of-gamergate/)
+- [ ] [Here Be Dragons](https://youtu.be/3ZHN2btOjL8)
+- [ ] [Skunkworks](https://youtu.be/ggPE-JHzfAM)
+- [ ][You are not an impostor](https://youtu.be/l_Vqp1dPuPo)
