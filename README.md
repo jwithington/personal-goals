@@ -20,57 +20,12 @@ Learn more about it where it began, [here](https://github.com/una/personal-goals
 4. Improve Health
 5. Spend More Time With Family
 
-# April 3, 2016
+# To Be Continued
 
-# This Week's Focus
-Get Set Up, Stay Light, and Close Loops
+## And here's why (08/05/2016)
 
-## Things I'll do This Week:
+I seem to have stagnated on this project once I had, yknow, a jobby job.
 
-- [ ] Call Mom
-- [X] Call Mary Jo
-- [ ] Run three times
-  - [ ] Monday
-  - [ ] Wednesday
-  - [ ] Friday
-- [ ] Meditate twice
-  - [ ] 1
-  - [ ] 2
-- [ ] Bed at 11pm or earlier 3 times
-  - [ ] 1
-  - [ ] 2
-  - [ ] 3
-- [ ] Complete side room
-- [ ] Complete online portfolio
-- [ ] Watch some ST:TNG
-- [ ] Attempt to finish Treehouse CSS work
-- [ ] Finish reading CSS book
-- [ ] Buy jeans (and other clothing?)
-- [ ] Review this on Saturday or Sunday
-- [ ] Stay on top of new Skillcrush course
-- [:thumbsup:] meet with Chris; discuss new life with new job
-- [ ] fill out student loan shizz
+However, I really like doing it and I'm not ready to give it up just yet. I also finally got git and such set up on my Windows machine at work (that's how I'm typing this right now!), so I think it might be time to get it rolling again.
 
-### Things I'll Do in the Future:
-
-- [ ] Complete [this tutorial](http://1stwebdesigner.com/psd-to-html/)
-- [ ] Get good health care set up
-- [ ] Find financial advisor
-- [ ] Start the Homeowner Learning project
-- [ ] Set up savings plan
-- [ ] Start running again
-- [ ] Find a gym
-- [ ] Set up allergy shots
-- [ ] Edit some things / write some things for open source stuff
-- [ ] Finish React course
-- [ ] Improve my Portfolio site
-- [ ] Use New Template for site
-
-
-### Backlog: Side Projects & Other Ideas
-- [Apps & Other Projects](content-list/projects.md)
-- [Blog Post Ideas](content-list/blog.md)
-- [Resources](/resources)
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jwithington/personal-goals/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+I do hope so. Stay tuned!

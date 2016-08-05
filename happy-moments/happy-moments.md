@@ -188,3 +188,7 @@ Reminiscing online about photos with Kerri Klein.
 040816
 ---
 The side room! It's so so clean!
+
+080516
+---
+I'm in!

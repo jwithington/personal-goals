@@ -22,13 +22,13 @@ Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited af
 - [X] Coffeehouse Five
 - [ ] Rimsky Korsacoffee
 - [ ] Common Grounds
-- [X] Fresh Pot (Downtown)
+- [X] Fresh Pot (Downtown) :star:
 - [X] Fresh Pot (Powells)
-- [X] Fresh Pot (Mississippi)
+- [X] Fresh Pot (Mississippi) :star:
 - [ ] Triumph
 - [X] Good Coffee (Salmon)
 - [ ] Good Coffee (Division)
-- [ ] Upper Left
+- [X] Upper Left
 - [ ] Palio
 - [ ] That 24 hour place we saw
 - [ ] That place that replaced the coffee lodge
