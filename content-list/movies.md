@@ -37,6 +37,8 @@
 - Grey gardens (Erin)
 - American Psycho (Chris)
 - [Millennium Actress](https://youtu.be/nqq0nVu29g8)(from Reconcilable Differences)
+- The 36th Chamber of Shaolin (Emil)
+- 8 Diagram Pole Fighter
 
 ### Stuff I heard about that's sorta new and sounds good
 - Tangerine
