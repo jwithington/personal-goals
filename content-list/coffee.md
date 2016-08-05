@@ -9,7 +9,7 @@ Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited af
 - [X] Heart (Westside)
 - [ ] Heart (Roastery)
 - [X] Stumptown (Downtown) :star: (though internet = :poop:)
-- [ ] Stumptown (Division)
+- [X] Stumptown (Division)
 - [X] Stumptown (Ace)
 - [ ] Stumptown (Cupping Room)
 - [ ] That Beaverton one I can't remember
@@ -22,7 +22,7 @@ Gotta catch 'em all. If the shop doesn't have a check, then I haven't visited af
 - [X] Coffeehouse Five
 - [ ] Rimsky Korsacoffee
 - [ ] Common Grounds
-- [ ] Fresh Pot (Downtown)
+- [X] Fresh Pot (Downtown)
 - [X] Fresh Pot (Powells)
 - [X] Fresh Pot (Mississippi)
 - [ ] Triumph
