@@ -9,7 +9,7 @@ Things I want to work on.
 
 ## Possible Talks
 - [ ] Importance of quick wins for new devs (fluxus and surge.sh)
-- [ ] Self care for devs (including stuff related to )
+- [ ] Self care for devs (including stuff related to [Neofuturism](http://neofuturists.org/about-neo-futurism/))
 
 ## Other Project Ideas (unstarted)
 - [ ] App for Erin's Observations
