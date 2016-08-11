@@ -211,3 +211,4 @@ Holy cow is kung fu amazing
 
 081016
 ---
+Plugging and chipping away, learning new and connecting it all together.
