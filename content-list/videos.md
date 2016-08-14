@@ -16,7 +16,7 @@
 
 ### hack.summit()
 - [ ] [DHH](https://www.youtube.com/watch?v=99LBwJnFDE8)
-- [ ] [Bonnie Eisenman](https://www.youtube.com/watch?v=jk0RnCTr6nY)
+- [ ] [Bonnie Eisenman on react native](https://www.youtube.com/watch?v=jk0RnCTr6nY)
 
 ### Also
 - [X] [Una's Talk about Open Source Goals](https://www.youtube.com/watch?v=xQEU0ZsvXYI)
