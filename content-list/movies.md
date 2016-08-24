@@ -1,4 +1,4 @@
-# Goal: 52 movies this year (shooting for weekly, now at 18/52)
+# Goal: 52 movies this year (shooting for weekly, now at 22/52)
 
 📽 Please send your recommendations and I'll add them! 🎬
 
@@ -20,6 +20,7 @@
 - Hackers
 - Gimme shelter
 - District 9
+- Synecdoche, New York 
 
 ### Toons I've Missed
 - Monsters University
@@ -38,7 +39,6 @@
 - American Psycho (Chris)
 - [Millennium Actress](https://youtu.be/nqq0nVu29g8)(from Reconcilable Differences)
 - The 36th Chamber of Shaolin (Emil)
-- 8 Diagram Pole Fighter
 
 ### Stuff I heard about that's sorta new and sounds good
 - Tangerine
@@ -71,4 +71,6 @@
 - 30 for 30: This Magic Moment 🏀
 - 2001 in 70mm 🌈🌠
 - Sisters 👯
+- 8 Diagram Pole Fighter
+- Batman (1989) 
 - Your Sister's Sister ⭐️
