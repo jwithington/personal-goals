@@ -29,4 +29,4 @@
 - [ ] [Skunkworks](https://youtu.be/ggPE-JHzfAM)
 - [ ][You are not an impostor](https://youtu.be/l_Vqp1dPuPo)
 - [X] [Code like a writer](https://youtu.be/XfvKpYgi7fI)
-- -[] [Render Conf 2015 talks](https://vimeo.com/album/3953264/page:2/sort:preset/format:thumbnail)
+- [ ] [Render Conf 2015 talks](https://vimeo.com/album/3953264/page:2/sort:preset/format:thumbnail)
